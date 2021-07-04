@@ -1,2 +1,6 @@
-# MLAICriminalActivity
-Research on Criminal Patterns across California to Identify Safest Areas and Make Key Decisions
+Welcome to the ASDRP Machine Learning Criminal Activity Repository
+
+Current Advisor: Dr. Larry McMahan
+
+Current researchers: Risab Sankar, Akash Iyer, Ananya Balaji
+
