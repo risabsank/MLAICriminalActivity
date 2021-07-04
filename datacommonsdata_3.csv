@@ -1,0 +1,2321 @@
+Year,geoId,County,Population,Median_Age,Unemployment,Income,Crimes
+1980,geoId/06001,Alameda County,1105379,nan,nan,nan,nan
+1981,geoId/06001,Alameda County,1125950,nan,nan,nan,nan
+1982,geoId/06001,Alameda County,1140269,nan,nan,nan,nan
+1983,geoId/06001,Alameda County,1160694,nan,nan,nan,nan
+1984,geoId/06001,Alameda County,1179132,nan,nan,nan,nan
+1985,geoId/06001,Alameda County,1197401,nan,nan,nan,nan
+1986,geoId/06001,Alameda County,1215506,nan,nan,nan,nan
+1987,geoId/06001,Alameda County,1229319,nan,nan,nan,nan
+1988,geoId/06001,Alameda County,1251100,nan,nan,nan,nan
+1989,geoId/06001,Alameda County,1271443,nan,nan,nan,nan
+1990,geoId/06001,Alameda County,1305802,nan,4,nan,nan
+1991,geoId/06001,Alameda County,1315144,nan,5.5,nan,nan
+1992,geoId/06001,Alameda County,1328589,nan,6.6,nan,nan
+1993,geoId/06001,Alameda County,1334736,nan,6.7,nan,nan
+1994,geoId/06001,Alameda County,1336359,nan,6.2,nan,nan
+1995,geoId/06001,Alameda County,1340267,nan,5.7,nan,nan
+1996,geoId/06001,Alameda County,1351804,nan,5.1,nan,nan
+1997,geoId/06001,Alameda County,1372202,nan,4.5,nan,nan
+1998,geoId/06001,Alameda County,1397050,nan,4.1,nan,nan
+1999,geoId/06001,Alameda County,1415582,nan,3.5,nan,nan
+2000,geoId/06001,Alameda County,1450086,nan,3.6,nan,nan
+2001,geoId/06001,Alameda County,1469963,nan,4.8,nan,nan
+2002,geoId/06001,Alameda County,1462884,nan,6.8,nan,nan
+2003,geoId/06001,Alameda County,1455088,nan,6.9,nan,nan
+2004,geoId/06001,Alameda County,1446681,nan,5.9,nan,nan
+2005,geoId/06001,Alameda County,1442383,nan,5.1,nan,nan
+2006,geoId/06001,Alameda County,1444546,nan,4.4,nan,nan
+2007,geoId/06001,Alameda County,1455244,nan,4.7,nan,nan
+2008,geoId/06001,Alameda County,1476219,nan,6.2,nan,nan
+2009,geoId/06001,Alameda County,1497060,nan,10.7,nan,nan
+2010,geoId/06001,Alameda County,1513043,nan,11.2,nan,nan
+2011,geoId/06001,Alameda County,1530915,36.4,10.3,70821,nan
+2012,geoId/06001,Alameda County,1553764,36.6,8.8,71516,nan
+2013,geoId/06001,Alameda County,1579593,36.8,7.3,72112,nan
+2014,geoId/06001,Alameda County,1607792,36.9,5.9,73775,nan
+2015,geoId/06001,Alameda County,1634538,37.1,4.8,75619,nan
+2016,geoId/06001,Alameda County,1650950,37.2,4.3,79831,nan
+2017,geoId/06001,Alameda County,1660196,37.3,3.7,85743,nan
+2018,geoId/06001,Alameda County,1666756,37.4,3.1,92574,nan
+2019,geoId/06001,Alameda County,1671329,37.6,3,99406,nan
+1980,geoId/06003,Alpine County,1097,nan,nan,nan,nan
+1981,geoId/06003,Alpine County,1131,nan,nan,nan,nan
+1982,geoId/06003,Alpine County,1145,nan,nan,nan,nan
+1983,geoId/06003,Alpine County,1119,nan,nan,nan,nan
+1984,geoId/06003,Alpine County,1092,nan,nan,nan,nan
+1985,geoId/06003,Alpine County,1156,nan,nan,nan,nan
+1986,geoId/06003,Alpine County,1197,nan,nan,nan,nan
+1987,geoId/06003,Alpine County,1141,nan,nan,nan,nan
+1988,geoId/06003,Alpine County,1162,nan,nan,nan,nan
+1989,geoId/06003,Alpine County,1161,nan,nan,nan,nan
+1990,geoId/06003,Alpine County,1106,nan,9.6,nan,nan
+1991,geoId/06003,Alpine County,1158,nan,13.4,nan,nan
+1992,geoId/06003,Alpine County,1147,nan,16.7,nan,nan
+1993,geoId/06003,Alpine County,1185,nan,13.1,nan,nan
+1994,geoId/06003,Alpine County,1184,nan,10.3,nan,nan
+1995,geoId/06003,Alpine County,1227,nan,10.5,nan,nan
+1996,geoId/06003,Alpine County,1239,nan,10.1,nan,nan
+1997,geoId/06003,Alpine County,1212,nan,9.5,nan,nan
+1998,geoId/06003,Alpine County,1192,nan,9.7,nan,nan
+1999,geoId/06003,Alpine County,1161,nan,9.3,nan,nan
+2000,geoId/06003,Alpine County,1203,nan,6.3,nan,nan
+2001,geoId/06003,Alpine County,1174,nan,7.3,nan,nan
+2002,geoId/06003,Alpine County,1198,nan,7.6,nan,nan
+2003,geoId/06003,Alpine County,1177,nan,8.5,nan,nan
+2004,geoId/06003,Alpine County,1189,nan,8.1,nan,nan
+2005,geoId/06003,Alpine County,1131,nan,8,nan,nan
+2006,geoId/06003,Alpine County,1167,nan,6.4,nan,nan
+2007,geoId/06003,Alpine County,1149,nan,7.9,nan,nan
+2008,geoId/06003,Alpine County,1068,nan,10.5,nan,nan
+2009,geoId/06003,Alpine County,1048,nan,14.7,nan,nan
+2010,geoId/06003,Alpine County,1161,nan,13.1,nan,nan
+2011,geoId/06003,Alpine County,1093,40.4,12.9,59018,nan
+2012,geoId/06003,Alpine County,1110,43.2,11.2,59931,nan
+2013,geoId/06003,Alpine County,1127,44.3,9.8,58636,nan
+2014,geoId/06003,Alpine County,1082,43.6,8.3,61343,nan
+2015,geoId/06003,Alpine County,1087,43.6,7.5,52917,nan
+2016,geoId/06003,Alpine County,1057,42.8,6.5,62375,nan
+2017,geoId/06003,Alpine County,1121,44.9,6.2,63438,nan
+2018,geoId/06003,Alpine County,1101,44.3,4.6,64688,nan
+2019,geoId/06003,Alpine County,1039,52.2,5.4,63750,nan
+1980,geoId/06005,Amador County,19314,nan,nan,nan,nan
+1981,geoId/06005,Amador County,20205,nan,nan,nan,nan
+1982,geoId/06005,Amador County,20605,nan,nan,nan,nan
+1983,geoId/06005,Amador County,21103,nan,nan,nan,nan
+1984,geoId/06005,Amador County,21821,nan,nan,nan,nan
+1985,geoId/06005,Amador County,22659,nan,nan,nan,nan
+1986,geoId/06005,Amador County,23375,nan,nan,nan,nan
+1987,geoId/06005,Amador County,24531,nan,nan,nan,nan
+1988,geoId/06005,Amador County,27077,nan,nan,nan,nan
+1989,geoId/06005,Amador County,28939,nan,nan,nan,nan
+1990,geoId/06005,Amador County,30289,nan,5.2,nan,nan
+1991,geoId/06005,Amador County,31262,nan,7,nan,nan
+1992,geoId/06005,Amador County,31854,nan,9.2,nan,nan
+1993,geoId/06005,Amador County,32285,nan,9.3,nan,nan
+1994,geoId/06005,Amador County,32693,nan,8.2,nan,nan
+1995,geoId/06005,Amador County,32976,nan,8,nan,nan
+1996,geoId/06005,Amador County,33214,nan,6.8,nan,nan
+1997,geoId/06005,Amador County,33423,nan,6.2,nan,nan
+1998,geoId/06005,Amador County,33415,nan,5.5,nan,nan
+1999,geoId/06005,Amador County,34153,nan,4.7,nan,nan
+2000,geoId/06005,Amador County,35160,nan,5.1,nan,nan
+2001,geoId/06005,Amador County,35708,nan,5.1,nan,nan
+2002,geoId/06005,Amador County,36568,nan,5.8,nan,nan
+2003,geoId/06005,Amador County,36998,nan,6.2,nan,nan
+2004,geoId/06005,Amador County,37403,nan,5.8,nan,nan
+2005,geoId/06005,Amador County,38040,nan,5.6,nan,nan
+2006,geoId/06005,Amador County,38343,nan,5.3,nan,nan
+2007,geoId/06005,Amador County,38744,nan,5.7,nan,nan
+2008,geoId/06005,Amador County,38236,nan,7.7,nan,nan
+2009,geoId/06005,Amador County,38226,nan,11.9,nan,nan
+2010,geoId/06005,Amador County,37884,nan,14.4,nan,nan
+2011,geoId/06005,Amador County,37538,48,13.8,56180,nan
+2012,geoId/06005,Amador County,37101,48.4,12.5,53462,nan
+2013,geoId/06005,Amador County,36625,49.1,10.4,53684,nan
+2014,geoId/06005,Amador County,36738,49.6,8.4,52964,nan
+2015,geoId/06005,Amador County,37037,50,6.6,54171,nan
+2016,geoId/06005,Amador County,37438,50.3,6,57032,nan
+2017,geoId/06005,Amador County,38551,50.6,5,60636,nan
+2018,geoId/06005,Amador County,39383,50.5,4.1,61198,nan
+2019,geoId/06005,Amador County,38429,50.5,3.9,62772,nan
+1980,geoId/06007,Butte County,143851,nan,nan,nan,nan
+1981,geoId/06007,Butte County,148451,nan,nan,nan,nan
+1982,geoId/06007,Butte County,151913,nan,nan,nan,nan
+1983,geoId/06007,Butte County,154263,nan,nan,nan,nan
+1984,geoId/06007,Butte County,156791,nan,nan,nan,nan
+1985,geoId/06007,Butte County,160680,nan,nan,nan,nan
+1986,geoId/06007,Butte County,163233,nan,nan,nan,nan
+1987,geoId/06007,Butte County,166970,nan,nan,nan,nan
+1988,geoId/06007,Butte County,171909,nan,nan,nan,nan
+1989,geoId/06007,Butte County,176583,nan,nan,nan,nan
+1990,geoId/06007,Butte County,183497,nan,8.4,nan,nan
+1991,geoId/06007,Butte County,186851,nan,9.9,nan,nan
+1992,geoId/06007,Butte County,188905,nan,11.9,nan,nan
+1993,geoId/06007,Butte County,190670,nan,12,nan,nan
+1994,geoId/06007,Butte County,191811,nan,10.4,nan,nan
+1995,geoId/06007,Butte County,192543,nan,9.9,nan,nan
+1996,geoId/06007,Butte County,192116,nan,9.2,nan,nan
+1997,geoId/06007,Butte County,193061,nan,8.7,nan,nan
+1998,geoId/06007,Butte County,194347,nan,8.4,nan,nan
+1999,geoId/06007,Butte County,195220,nan,6.9,nan,nan
+2000,geoId/06007,Butte County,203838,nan,6.1,nan,nan
+2001,geoId/06007,Butte County,206420,nan,6.6,nan,nan
+2002,geoId/06007,Butte County,209521,nan,7.5,nan,nan
+2003,geoId/06007,Butte County,212032,nan,7.7,nan,nan
+2004,geoId/06007,Butte County,213758,nan,7.4,nan,nan
+2005,geoId/06007,Butte County,215570,nan,6.7,nan,nan
+2006,geoId/06007,Butte County,217746,nan,6.2,nan,nan
+2007,geoId/06007,Butte County,218508,nan,6.6,nan,nan
+2008,geoId/06007,Butte County,220158,nan,8.5,nan,nan
+2009,geoId/06007,Butte County,220969,nan,12.8,nan,nan
+2010,geoId/06007,Butte County,219945,nan,14.2,nan,nan
+2011,geoId/06007,Butte County,219975,37.2,13.9,42971,nan
+2012,geoId/06007,Butte County,220869,37.3,12.3,43339,nan
+2013,geoId/06007,Butte County,221641,37,10.4,43752,nan
+2014,geoId/06007,Butte County,223516,36.9,8.7,43165,nan
+2015,geoId/06007,Butte County,224631,36.8,7.2,43444,nan
+2016,geoId/06007,Butte County,226231,36.9,6.6,44366,nan
+2017,geoId/06007,Butte County,228696,36.9,5.8,46516,nan
+2018,geoId/06007,Butte County,230339,37.1,5.1,48443,nan
+2019,geoId/06007,Butte County,219186,37.1,5.2,52537,nan
+1980,geoId/06009,Calaveras County,20710,nan,nan,nan,nan
+1981,geoId/06009,Calaveras County,21700,nan,nan,nan,nan
+1982,geoId/06009,Calaveras County,22778,nan,nan,nan,nan
+1983,geoId/06009,Calaveras County,23530,nan,nan,nan,nan
+1984,geoId/06009,Calaveras County,24196,nan,nan,nan,nan
+1985,geoId/06009,Calaveras County,24870,nan,nan,nan,nan
+1986,geoId/06009,Calaveras County,25854,nan,nan,nan,nan
+1987,geoId/06009,Calaveras County,27194,nan,nan,nan,nan
+1988,geoId/06009,Calaveras County,28248,nan,nan,nan,nan
+1989,geoId/06009,Calaveras County,30071,nan,nan,nan,nan
+1990,geoId/06009,Calaveras County,32539,nan,6.8,nan,nan
+1991,geoId/06009,Calaveras County,34030,nan,9.4,nan,nan
+1992,geoId/06009,Calaveras County,35221,nan,12.1,nan,nan
+1993,geoId/06009,Calaveras County,35945,nan,12.2,nan,nan
+1994,geoId/06009,Calaveras County,37097,nan,11.3,nan,nan
+1995,geoId/06009,Calaveras County,37729,nan,11,nan,nan
+1996,geoId/06009,Calaveras County,38476,nan,9.4,nan,nan
+1997,geoId/06009,Calaveras County,39144,nan,9.1,nan,nan
+1998,geoId/06009,Calaveras County,39642,nan,8.8,nan,nan
+1999,geoId/06009,Calaveras County,40051,nan,7,nan,nan
+2000,geoId/06009,Calaveras County,40664,nan,5.5,nan,nan
+2001,geoId/06009,Calaveras County,41430,nan,5.5,nan,nan
+2002,geoId/06009,Calaveras County,42618,nan,6.6,nan,nan
+2003,geoId/06009,Calaveras County,44108,nan,7.5,nan,nan
+2004,geoId/06009,Calaveras County,44997,nan,6.8,nan,nan
+2005,geoId/06009,Calaveras County,45878,nan,6.2,nan,nan
+2006,geoId/06009,Calaveras County,46736,nan,5.8,nan,nan
+2007,geoId/06009,Calaveras County,47069,nan,6.4,nan,nan
+2008,geoId/06009,Calaveras County,47166,nan,8.7,nan,nan
+2009,geoId/06009,Calaveras County,46890,nan,14.2,nan,nan
+2010,geoId/06009,Calaveras County,45468,nan,14.8,nan,nan
+2011,geoId/06009,Calaveras County,45160,49,14.3,55256,nan
+2012,geoId/06009,Calaveras County,44821,49.5,12.6,54686,nan
+2013,geoId/06009,Calaveras County,44660,50,10.1,55295,nan
+2014,geoId/06009,Calaveras County,44673,50.3,8.1,54936,nan
+2015,geoId/06009,Calaveras County,44957,50.7,6.4,53233,nan
+2016,geoId/06009,Calaveras County,45303,51.2,5.7,53502,nan
+2017,geoId/06009,Calaveras County,45642,51.6,4.8,54800,nan
+2018,geoId/06009,Calaveras County,45602,52.1,4.1,58151,nan
+2019,geoId/06009,Calaveras County,45514,52,3.9,63158,nan
+1980,geoId/06011,Colusa County,12791,nan,nan,nan,nan
+1981,geoId/06011,Colusa County,13184,nan,nan,nan,nan
+1982,geoId/06011,Colusa County,13872,nan,nan,nan,nan
+1983,geoId/06011,Colusa County,14109,nan,nan,nan,nan
+1984,geoId/06011,Colusa County,14159,nan,nan,nan,nan
+1985,geoId/06011,Colusa County,14701,nan,nan,nan,nan
+1986,geoId/06011,Colusa County,14930,nan,nan,nan,nan
+1987,geoId/06011,Colusa County,14972,nan,nan,nan,nan
+1988,geoId/06011,Colusa County,15494,nan,nan,nan,nan
+1989,geoId/06011,Colusa County,16004,nan,nan,nan,nan
+1990,geoId/06011,Colusa County,16340,nan,14.2,nan,nan
+1991,geoId/06011,Colusa County,16596,nan,18.1,nan,nan
+1992,geoId/06011,Colusa County,16882,nan,21.7,nan,nan
+1993,geoId/06011,Colusa County,17056,nan,21.7,nan,nan
+1994,geoId/06011,Colusa County,17331,nan,19.2,nan,nan
+1995,geoId/06011,Colusa County,17679,nan,19.7,nan,nan
+1996,geoId/06011,Colusa County,18033,nan,20.1,nan,nan
+1997,geoId/06011,Colusa County,18425,nan,19,nan,nan
+1998,geoId/06011,Colusa County,18596,nan,20.1,nan,nan
+1999,geoId/06011,Colusa County,18844,nan,16,nan,nan
+2000,geoId/06011,Colusa County,18829,nan,11.4,nan,nan
+2001,geoId/06011,Colusa County,19068,nan,12.9,nan,nan
+2002,geoId/06011,Colusa County,19310,nan,13.9,nan,nan
+2003,geoId/06011,Colusa County,19668,nan,14.5,nan,nan
+2004,geoId/06011,Colusa County,20329,nan,13.7,nan,nan
+2005,geoId/06011,Colusa County,20680,nan,12.7,nan,nan
+2006,geoId/06011,Colusa County,21044,nan,12.2,nan,nan
+2007,geoId/06011,Colusa County,21240,nan,11.6,nan,nan
+2008,geoId/06011,Colusa County,21308,nan,13.9,nan,nan
+2009,geoId/06011,Colusa County,21431,nan,18.3,nan,nan
+2010,geoId/06011,Colusa County,21437,nan,21.3,nan,nan
+2011,geoId/06011,Colusa County,21327,33.5,21.6,49558,nan
+2012,geoId/06011,Colusa County,21294,33.9,21,52165,nan
+2013,geoId/06011,Colusa County,21265,33.9,19.1,52158,nan
+2014,geoId/06011,Colusa County,21198,34.1,17.6,50503,nan
+2015,geoId/06011,Colusa County,21269,34,15.5,52168,nan
+2016,geoId/06011,Colusa County,21553,34.7,15.6,54946,nan
+2017,geoId/06011,Colusa County,21675,34.7,14.3,56481,nan
+2018,geoId/06011,Colusa County,21627,35.1,13.3,56704,nan
+2019,geoId/06011,Colusa County,21454,35.3,13,59401,nan
+1980,geoId/06013,Contra Costa County,656331,nan,nan,nan,nan
+1981,geoId/06013,Contra Costa County,667293,nan,nan,nan,nan
+1982,geoId/06013,Contra Costa County,678903,nan,nan,nan,nan
+1983,geoId/06013,Contra Costa County,690150,nan,nan,nan,nan
+1984,geoId/06013,Contra Costa County,698814,nan,nan,nan,nan
+1985,geoId/06013,Contra Costa County,711446,nan,nan,nan,nan
+1986,geoId/06013,Contra Costa County,725367,nan,nan,nan,nan
+1987,geoId/06013,Contra Costa County,739987,nan,nan,nan,nan
+1988,geoId/06013,Contra Costa County,759242,nan,nan,nan,nan
+1989,geoId/06013,Contra Costa County,784395,nan,nan,nan,nan
+1990,geoId/06013,Contra Costa County,809199,nan,4,nan,nan
+1991,geoId/06013,Contra Costa County,822332,nan,5.5,nan,nan
+1992,geoId/06013,Contra Costa County,838364,nan,6.6,nan,nan
+1993,geoId/06013,Contra Costa County,850732,nan,6.6,nan,nan
+1994,geoId/06013,Contra Costa County,859872,nan,6.3,nan,nan
+1995,geoId/06013,Contra Costa County,869437,nan,5.7,nan,nan
+1996,geoId/06013,Contra Costa County,881213,nan,5,nan,nan
+1997,geoId/06013,Contra Costa County,899494,nan,4.2,nan,nan
+1998,geoId/06013,Contra Costa County,917970,nan,3.6,nan,nan
+1999,geoId/06013,Contra Costa County,933141,nan,3.1,nan,nan
+2000,geoId/06013,Contra Costa County,953124,nan,3.5,nan,nan
+2001,geoId/06013,Contra Costa County,972322,nan,4.1,nan,nan
+2002,geoId/06013,Contra Costa County,982242,nan,5.8,nan,nan
+2003,geoId/06013,Contra Costa County,990852,nan,6.2,nan,nan
+2004,geoId/06013,Contra Costa County,996658,nan,5.4,nan,nan
+2005,geoId/06013,Contra Costa County,1004079,nan,4.8,nan,nan
+2006,geoId/06013,Contra Costa County,1006545,nan,4.3,nan,nan
+2007,geoId/06013,Contra Costa County,1015661,nan,4.6,nan,nan
+2008,geoId/06013,Contra Costa County,1030584,nan,6.2,nan,nan
+2009,geoId/06013,Contra Costa County,1045804,nan,10.4,nan,nan
+2010,geoId/06013,Contra Costa County,1052559,nan,11.2,nan,nan
+2011,geoId/06013,Contra Costa County,1065440,38.3,10.5,79135,nan
+2012,geoId/06013,Contra Costa County,1077548,38.5,9.1,78187,nan
+2013,geoId/06013,Contra Costa County,1093401,38.6,7.6,78756,nan
+2014,geoId/06013,Contra Costa County,1108876,38.7,6.2,79799,nan
+2015,geoId/06013,Contra Costa County,1124405,38.8,5.1,80185,nan
+2016,geoId/06013,Contra Costa County,1137268,39.1,4.5,82881,nan
+2017,geoId/06013,Contra Costa County,1145535,39.2,3.9,88456,nan
+2018,geoId/06013,Contra Costa County,1150519,39.4,3.2,93712,nan
+2019,geoId/06013,Contra Costa County,1153526,39.7,3.1,99716,nan
+1980,geoId/06015,Del Norte County,18217,nan,nan,nan,nan
+1981,geoId/06015,Del Norte County,18789,nan,nan,nan,nan
+1982,geoId/06015,Del Norte County,18571,nan,nan,nan,nan
+1983,geoId/06015,Del Norte County,18704,nan,nan,nan,nan
+1984,geoId/06015,Del Norte County,18505,nan,nan,nan,nan
+1985,geoId/06015,Del Norte County,18701,nan,nan,nan,nan
+1986,geoId/06015,Del Norte County,19087,nan,nan,nan,nan
+1987,geoId/06015,Del Norte County,19526,nan,nan,nan,nan
+1988,geoId/06015,Del Norte County,20308,nan,nan,nan,nan
+1989,geoId/06015,Del Norte County,21270,nan,nan,nan,nan
+1990,geoId/06015,Del Norte County,23984,nan,12,nan,nan
+1991,geoId/06015,Del Norte County,25849,nan,12.3,nan,nan
+1992,geoId/06015,Del Norte County,26601,nan,15.5,nan,nan
+1993,geoId/06015,Del Norte County,26833,nan,14.2,nan,nan
+1994,geoId/06015,Del Norte County,27063,nan,12.2,nan,nan
+1995,geoId/06015,Del Norte County,26726,nan,12.3,nan,nan
+1996,geoId/06015,Del Norte County,26864,nan,10.5,nan,nan
+1997,geoId/06015,Del Norte County,27186,nan,10.2,nan,nan
+1998,geoId/06015,Del Norte County,27006,nan,10.3,nan,nan
+1999,geoId/06015,Del Norte County,26477,nan,8.1,nan,nan
+2000,geoId/06015,Del Norte County,27468,nan,7.3,nan,nan
+2001,geoId/06015,Del Norte County,27388,nan,8.1,nan,nan
+2002,geoId/06015,Del Norte County,27552,nan,8.8,nan,nan
+2003,geoId/06015,Del Norte County,27816,nan,8.6,nan,nan
+2004,geoId/06015,Del Norte County,28228,nan,8.1,nan,nan
+2005,geoId/06015,Del Norte County,28625,nan,7.4,nan,nan
+2006,geoId/06015,Del Norte County,28614,nan,6.9,nan,nan
+2007,geoId/06015,Del Norte County,28885,nan,7.4,nan,nan
+2008,geoId/06015,Del Norte County,29031,nan,8.8,nan,nan
+2009,geoId/06015,Del Norte County,29204,nan,12.3,nan,nan
+2010,geoId/06015,Del Norte County,28568,nan,13.5,nan,nan
+2011,geoId/06015,Del Norte County,28443,38.9,13.5,37588,nan
+2012,geoId/06015,Del Norte County,28190,38.8,13.7,39626,nan
+2013,geoId/06015,Del Norte County,27816,39.1,12,37909,nan
+2014,geoId/06015,Del Norte County,27175,39.2,10.2,39302,nan
+2015,geoId/06015,Del Norte County,27190,38.8,8.6,40847,nan
+2016,geoId/06015,Del Norte County,27382,38.1,7.5,42363,nan
+2017,geoId/06015,Del Norte County,27351,38.7,6.5,41287,nan
+2018,geoId/06015,Del Norte County,27740,38.6,5.8,45258,nan
+2019,geoId/06015,Del Norte County,27812,39.5,5.9,45283,nan
+1980,geoId/06017,El Dorado County,85812,nan,nan,nan,nan
+1981,geoId/06017,El Dorado County,89367,nan,nan,nan,nan
+1982,geoId/06017,El Dorado County,92428,nan,nan,nan,nan
+1983,geoId/06017,El Dorado County,93434,nan,nan,nan,nan
+1984,geoId/06017,El Dorado County,95371,nan,nan,nan,nan
+1985,geoId/06017,El Dorado County,99093,nan,nan,nan,nan
+1986,geoId/06017,El Dorado County,102450,nan,nan,nan,nan
+1987,geoId/06017,El Dorado County,106852,nan,nan,nan,nan
+1988,geoId/06017,El Dorado County,112687,nan,nan,nan,nan
+1989,geoId/06017,El Dorado County,118828,nan,nan,nan,nan
+1990,geoId/06017,El Dorado County,128095,nan,4.5,nan,nan
+1991,geoId/06017,El Dorado County,133480,nan,6.7,nan,nan
+1992,geoId/06017,El Dorado County,137444,nan,8.6,nan,nan
+1993,geoId/06017,El Dorado County,141771,nan,8.7,nan,nan
+1994,geoId/06017,El Dorado County,144961,nan,7.3,nan,nan
+1995,geoId/06017,El Dorado County,148185,nan,6.9,nan,nan
+1996,geoId/06017,El Dorado County,151257,nan,6.4,nan,nan
+1997,geoId/06017,El Dorado County,154798,nan,5.5,nan,nan
+1998,geoId/06017,El Dorado County,158322,nan,5,nan,nan
+1999,geoId/06017,El Dorado County,161358,nan,3.9,nan,nan
+2000,geoId/06017,El Dorado County,157136,nan,4.1,nan,nan
+2001,geoId/06017,El Dorado County,160959,nan,4.3,nan,nan
+2002,geoId/06017,El Dorado County,164919,nan,5.3,nan,nan
+2003,geoId/06017,El Dorado County,167903,nan,5.6,nan,nan
+2004,geoId/06017,El Dorado County,171063,nan,5.3,nan,nan
+2005,geoId/06017,El Dorado County,174228,nan,4.8,nan,nan
+2006,geoId/06017,El Dorado County,175782,nan,4.6,nan,nan
+2007,geoId/06017,El Dorado County,176509,nan,5.1,nan,nan
+2008,geoId/06017,El Dorado County,177744,nan,7,nan,nan
+2009,geoId/06017,El Dorado County,178812,nan,11.3,nan,nan
+2010,geoId/06017,El Dorado County,181133,nan,12.5,nan,nan
+2011,geoId/06017,El Dorado County,180936,43.1,11.9,68815,nan
+2012,geoId/06017,El Dorado County,180575,43.5,10.4,70117,nan
+2013,geoId/06017,El Dorado County,181481,44.1,8.6,69297,nan
+2014,geoId/06017,El Dorado County,183108,44.4,7.1,68507,nan
+2015,geoId/06017,El Dorado County,184569,44.9,5.7,69584,nan
+2016,geoId/06017,El Dorado County,185976,45.2,5.2,72586,nan
+2017,geoId/06017,El Dorado County,188679,45.5,4.4,74885,nan
+2018,geoId/06017,El Dorado County,190746,45.8,3.7,80582,nan
+2019,geoId/06017,El Dorado County,192843,45.9,3.6,83377,nan
+1980,geoId/06019,Fresno County,514621,nan,nan,nan,nan
+1981,geoId/06019,Fresno County,528891,nan,nan,nan,nan
+1982,geoId/06019,Fresno County,541500,nan,nan,nan,nan
+1983,geoId/06019,Fresno County,555873,nan,nan,nan,nan
+1984,geoId/06019,Fresno County,572091,nan,nan,nan,nan
+1985,geoId/06019,Fresno County,584070,nan,nan,nan,nan
+1986,geoId/06019,Fresno County,593621,nan,nan,nan,nan
+1987,geoId/06019,Fresno County,608831,nan,nan,nan,nan
+1988,geoId/06019,Fresno County,627658,nan,nan,nan,nan
+1989,geoId/06019,Fresno County,650755,nan,nan,nan,nan
+1990,geoId/06019,Fresno County,671660,nan,11.6,nan,nan
+1991,geoId/06019,Fresno County,688511,nan,13.5,nan,nan
+1992,geoId/06019,Fresno County,703846,nan,15.6,nan,nan
+1993,geoId/06019,Fresno County,717746,nan,15.5,nan,nan
+1994,geoId/06019,Fresno County,727869,nan,14.4,nan,nan
+1995,geoId/06019,Fresno County,734615,nan,14,nan,nan
+1996,geoId/06019,Fresno County,743479,nan,13.4,nan,nan
+1997,geoId/06019,Fresno County,750640,nan,13.6,nan,nan
+1998,geoId/06019,Fresno County,755051,nan,14.3,nan,nan
+1999,geoId/06019,Fresno County,763069,nan,13.6,nan,nan
+2000,geoId/06019,Fresno County,801331,nan,10.3,nan,nan
+2001,geoId/06019,Fresno County,812921,nan,10.7,nan,nan
+2002,geoId/06019,Fresno County,829437,nan,11.6,nan,nan
+2003,geoId/06019,Fresno County,846562,nan,11.8,nan,nan
+2004,geoId/06019,Fresno County,860046,nan,10.4,nan,nan
+2005,geoId/06019,Fresno County,871036,nan,9,nan,nan
+2006,geoId/06019,Fresno County,881925,nan,8,nan,nan
+2007,geoId/06019,Fresno County,893667,nan,8.5,nan,nan
+2008,geoId/06019,Fresno County,906881,nan,10.6,nan,nan
+2009,geoId/06019,Fresno County,918151,nan,15.3,nan,nan
+2010,geoId/06019,Fresno County,932063,nan,17.1,nan,nan
+2011,geoId/06019,Fresno County,939406,30.6,16.8,46903,nan
+2012,geoId/06019,Fresno County,945045,30.7,15.4,45741,nan
+2013,geoId/06019,Fresno County,951514,30.9,13.4,45563,nan
+2014,geoId/06019,Fresno County,960567,31.2,11.7,45201,nan
+2015,geoId/06019,Fresno County,969488,31.4,10.3,45233,nan
+2016,geoId/06019,Fresno County,976830,31.6,9.5,45963,nan
+2017,geoId/06019,Fresno County,985238,31.8,8.6,48730,nan
+2018,geoId/06019,Fresno County,991950,32,7.6,51261,nan
+2019,geoId/06019,Fresno County,999101,32.2,7.4,53969,nan
+1980,geoId/06021,Glenn County,21350,nan,nan,nan,nan
+1981,geoId/06021,Glenn County,22050,nan,nan,nan,nan
+1982,geoId/06021,Glenn County,22346,nan,nan,nan,nan
+1983,geoId/06021,Glenn County,22873,nan,nan,nan,nan
+1984,geoId/06021,Glenn County,22835,nan,nan,nan,nan
+1985,geoId/06021,Glenn County,23171,nan,nan,nan,nan
+1986,geoId/06021,Glenn County,23214,nan,nan,nan,nan
+1987,geoId/06021,Glenn County,23318,nan,nan,nan,nan
+1988,geoId/06021,Glenn County,23844,nan,nan,nan,nan
+1989,geoId/06021,Glenn County,24428,nan,nan,nan,nan
+1990,geoId/06021,Glenn County,24916,nan,12.4,nan,nan
+1991,geoId/06021,Glenn County,25199,nan,15.9,nan,nan
+1992,geoId/06021,Glenn County,25509,nan,19,nan,nan
+1993,geoId/06021,Glenn County,25642,nan,17.4,nan,nan
+1994,geoId/06021,Glenn County,25783,nan,16.3,nan,nan
+1995,geoId/06021,Glenn County,26008,nan,15.5,nan,nan
+1996,geoId/06021,Glenn County,26111,nan,15.4,nan,nan
+1997,geoId/06021,Glenn County,26214,nan,13.5,nan,nan
+1998,geoId/06021,Glenn County,26176,nan,13.4,nan,nan
+1999,geoId/06021,Glenn County,26328,nan,11.3,nan,nan
+2000,geoId/06021,Glenn County,26426,nan,8.4,nan,nan
+2001,geoId/06021,Glenn County,26495,nan,8.8,nan,nan
+2002,geoId/06021,Glenn County,26727,nan,9.7,nan,nan
+2003,geoId/06021,Glenn County,27118,nan,10.3,nan,nan
+2004,geoId/06021,Glenn County,27249,nan,9.3,nan,nan
+2005,geoId/06021,Glenn County,27539,nan,8.4,nan,nan
+2006,geoId/06021,Glenn County,27810,nan,8,nan,nan
+2007,geoId/06021,Glenn County,27950,nan,8.7,nan,nan
+2008,geoId/06021,Glenn County,28205,nan,10.5,nan,nan
+2009,geoId/06021,Glenn County,28293,nan,14.7,nan,nan
+2010,geoId/06021,Glenn County,28126,nan,15.8,nan,nan
+2011,geoId/06021,Glenn County,28144,35.3,15.8,43239,nan
+2012,geoId/06021,Glenn County,27860,36.5,14.4,42641,nan
+2013,geoId/06021,Glenn County,27826,37.2,12.2,43023,nan
+2014,geoId/06021,Glenn County,27857,36.7,10.8,40106,nan
+2015,geoId/06021,Glenn County,27776,37.2,8.8,39349,nan
+2016,geoId/06021,Glenn County,27851,36.9,8.4,41699,nan
+2017,geoId/06021,Glenn County,27956,36.8,7.5,46260,nan
+2018,geoId/06021,Glenn County,28047,36.6,6.6,47395,nan
+2019,geoId/06021,Glenn County,27976,36.4,6.2,49633,nan
+1980,geoId/06023,Humboldt County,108525,nan,nan,nan,nan
+1981,geoId/06023,Humboldt County,110338,nan,nan,nan,nan
+1982,geoId/06023,Humboldt County,109889,nan,nan,nan,nan
+1983,geoId/06023,Humboldt County,109638,nan,nan,nan,nan
+1984,geoId/06023,Humboldt County,110275,nan,nan,nan,nan
+1985,geoId/06023,Humboldt County,111050,nan,nan,nan,nan
+1986,geoId/06023,Humboldt County,111702,nan,nan,nan,nan
+1987,geoId/06023,Humboldt County,112818,nan,nan,nan,nan
+1988,geoId/06023,Humboldt County,114774,nan,nan,nan,nan
+1989,geoId/06023,Humboldt County,117161,nan,nan,nan,nan
+1990,geoId/06023,Humboldt County,119596,nan,7.9,nan,nan
+1991,geoId/06023,Humboldt County,120612,nan,8.9,nan,nan
+1992,geoId/06023,Humboldt County,121751,nan,10.1,nan,nan
+1993,geoId/06023,Humboldt County,122234,nan,9.9,nan,nan
+1994,geoId/06023,Humboldt County,121480,nan,8.7,nan,nan
+1995,geoId/06023,Humboldt County,122814,nan,8.3,nan,nan
+1996,geoId/06023,Humboldt County,122421,nan,7.8,nan,nan
+1997,geoId/06023,Humboldt County,122639,nan,7.4,nan,nan
+1998,geoId/06023,Humboldt County,122163,nan,7.2,nan,nan
+1999,geoId/06023,Humboldt County,121358,nan,6.5,nan,nan
+2000,geoId/06023,Humboldt County,126386,nan,5.7,nan,nan
+2001,geoId/06023,Humboldt County,127096,nan,6,nan,nan
+2002,geoId/06023,Humboldt County,127988,nan,6.8,nan,nan
+2003,geoId/06023,Humboldt County,128578,nan,6.9,nan,nan
+2004,geoId/06023,Humboldt County,129149,nan,6.5,nan,nan
+2005,geoId/06023,Humboldt County,129528,nan,6.1,nan,nan
+2006,geoId/06023,Humboldt County,129670,nan,5.5,nan,nan
+2007,geoId/06023,Humboldt County,129165,nan,5.9,nan,nan
+2008,geoId/06023,Humboldt County,129372,nan,7.3,nan,nan
+2009,geoId/06023,Humboldt County,129996,nan,11.1,nan,nan
+2010,geoId/06023,Humboldt County,135000,nan,10.8,nan,nan
+2011,geoId/06023,Humboldt County,135243,37.3,10.7,40376,nan
+2012,geoId/06023,Humboldt County,134572,37.5,9.7,40830,nan
+2013,geoId/06023,Humboldt County,134403,37.5,8.2,41426,nan
+2014,geoId/06023,Humboldt County,134494,37.4,6.7,42153,nan
+2015,geoId/06023,Humboldt County,135102,37.4,5.6,42197,nan
+2016,geoId/06023,Humboldt County,136290,37.6,4.9,42685,nan
+2017,geoId/06023,Humboldt County,136507,37.7,4.2,43718,nan
+2018,geoId/06023,Humboldt County,136244,38,3.6,45528,nan
+2019,geoId/06023,Humboldt County,135558,38.4,3.7,48041,nan
+1980,geoId/06025,Imperial County,92110,nan,nan,nan,nan
+1981,geoId/06025,Imperial County,94301,nan,nan,nan,nan
+1982,geoId/06025,Imperial County,95688,nan,nan,nan,nan
+1983,geoId/06025,Imperial County,96890,nan,nan,nan,nan
+1984,geoId/06025,Imperial County,97475,nan,nan,nan,nan
+1985,geoId/06025,Imperial County,99199,nan,nan,nan,nan
+1986,geoId/06025,Imperial County,98885,nan,nan,nan,nan
+1987,geoId/06025,Imperial County,100077,nan,nan,nan,nan
+1988,geoId/06025,Imperial County,101881,nan,nan,nan,nan
+1989,geoId/06025,Imperial County,105166,nan,nan,nan,nan
+1990,geoId/06025,Imperial County,110930,nan,25.4,nan,nan
+1991,geoId/06025,Imperial County,117663,nan,26.3,nan,nan
+1992,geoId/06025,Imperial County,127533,nan,30.9,nan,nan
+1993,geoId/06025,Imperial County,134624,nan,29.4,nan,nan
+1994,geoId/06025,Imperial County,136248,nan,26.5,nan,nan
+1995,geoId/06025,Imperial County,139418,nan,29.2,nan,nan
+1996,geoId/06025,Imperial County,140921,nan,30.1,nan,nan
+1997,geoId/06025,Imperial County,142155,nan,26.9,nan,nan
+1998,geoId/06025,Imperial County,143735,nan,26,nan,nan
+1999,geoId/06025,Imperial County,145287,nan,23.7,nan,nan
+2000,geoId/06025,Imperial County,142359,nan,17.3,nan,nan
+2001,geoId/06025,Imperial County,143295,nan,16,nan,nan
+2002,geoId/06025,Imperial County,144818,nan,15.1,nan,nan
+2003,geoId/06025,Imperial County,147671,nan,15.7,nan,nan
+2004,geoId/06025,Imperial County,150509,nan,17,nan,nan
+2005,geoId/06025,Imperial County,153780,nan,15.9,nan,nan
+2006,geoId/06025,Imperial County,157671,nan,15.4,nan,nan
+2007,geoId/06025,Imperial County,161134,nan,17.9,nan,nan
+2008,geoId/06025,Imperial County,164005,nan,22.6,nan,nan
+2009,geoId/06025,Imperial County,167466,nan,28.3,nan,nan
+2010,geoId/06025,Imperial County,174730,nan,29.4,nan,nan
+2011,geoId/06025,Imperial County,175786,31.8,29.3,39402,nan
+2012,geoId/06025,Imperial County,176575,31.8,27.7,41255,nan
+2013,geoId/06025,Imperial County,176438,31.8,25.3,41807,nan
+2014,geoId/06025,Imperial County,177974,31.9,24.3,41772,nan
+2015,geoId/06025,Imperial County,178937,32.2,24.6,41079,nan
+2016,geoId/06025,Imperial County,180179,32.2,24.2,42560,nan
+2017,geoId/06025,Imperial County,181649,32.2,19.7,44779,nan
+2018,geoId/06025,Imperial County,181523,32.4,18.8,45834,nan
+2019,geoId/06025,Imperial County,181215,32.4,20.9,47622,nan
+1980,geoId/06027,Inyo County,17895,nan,nan,nan,nan
+1981,geoId/06027,Inyo County,17954,nan,nan,nan,nan
+1982,geoId/06027,Inyo County,18410,nan,nan,nan,nan
+1983,geoId/06027,Inyo County,18420,nan,nan,nan,nan
+1984,geoId/06027,Inyo County,18203,nan,nan,nan,nan
+1985,geoId/06027,Inyo County,18083,nan,nan,nan,nan
+1986,geoId/06027,Inyo County,17862,nan,nan,nan,nan
+1987,geoId/06027,Inyo County,17794,nan,nan,nan,nan
+1988,geoId/06027,Inyo County,17946,nan,nan,nan,nan
+1989,geoId/06027,Inyo County,18317,nan,nan,nan,nan
+1990,geoId/06027,Inyo County,18273,nan,7.1,nan,nan
+1991,geoId/06027,Inyo County,18321,nan,9.8,nan,nan
+1992,geoId/06027,Inyo County,18374,nan,11.6,nan,nan
+1993,geoId/06027,Inyo County,18346,nan,11.2,nan,nan
+1994,geoId/06027,Inyo County,18450,nan,10.6,nan,nan
+1995,geoId/06027,Inyo County,18420,nan,9.4,nan,nan
+1996,geoId/06027,Inyo County,18338,nan,8.7,nan,nan
+1997,geoId/06027,Inyo County,18273,nan,8.2,nan,nan
+1998,geoId/06027,Inyo County,18071,nan,7.3,nan,nan
+1999,geoId/06027,Inyo County,17958,nan,5.7,nan,nan
+2000,geoId/06027,Inyo County,17911,nan,4.6,nan,nan
+2001,geoId/06027,Inyo County,17955,nan,4.6,nan,nan
+2002,geoId/06027,Inyo County,18109,nan,5.5,nan,nan
+2003,geoId/06027,Inyo County,18183,nan,5.8,nan,nan
+2004,geoId/06027,Inyo County,18047,nan,5.3,nan,nan
+2005,geoId/06027,Inyo County,17828,nan,4.9,nan,nan
+2006,geoId/06027,Inyo County,17597,nan,4.6,nan,nan
+2007,geoId/06027,Inyo County,17531,nan,4.9,nan,nan
+2008,geoId/06027,Inyo County,17304,nan,6.6,nan,nan
+2009,geoId/06027,Inyo County,17397,nan,9.3,nan,nan
+2010,geoId/06027,Inyo County,18512,nan,10,nan,nan
+2011,geoId/06027,Inyo County,18393,45.1,9.9,49571,nan
+2012,geoId/06027,Inyo County,18353,45.7,9.2,45000,nan
+2013,geoId/06027,Inyo County,18360,45.7,7.9,44796,nan
+2014,geoId/06027,Inyo County,18320,45.3,6.9,45625,nan
+2015,geoId/06027,Inyo County,18174,45.7,5.8,45955,nan
+2016,geoId/06027,Inyo County,17996,45.4,5.3,47278,nan
+2017,geoId/06027,Inyo County,17948,45.6,4.4,51500,nan
+2018,geoId/06027,Inyo County,17987,45.7,3.9,52874,nan
+2019,geoId/06027,Inyo County,17977,45.8,3.6,57316,nan
+1980,geoId/06029,Kern County,403089,nan,nan,nan,nan
+1981,geoId/06029,Kern County,418877,nan,nan,nan,nan
+1982,geoId/06029,Kern County,433698,nan,nan,nan,nan
+1983,geoId/06029,Kern County,446961,nan,nan,nan,nan
+1984,geoId/06029,Kern County,459411,nan,nan,nan,nan
+1985,geoId/06029,Kern County,474243,nan,nan,nan,nan
+1986,geoId/06029,Kern County,486217,nan,nan,nan,nan
+1987,geoId/06029,Kern County,497910,nan,nan,nan,nan
+1988,geoId/06029,Kern County,510980,nan,nan,nan,nan
+1989,geoId/06029,Kern County,527922,nan,nan,nan,nan
+1990,geoId/06029,Kern County,549219,nan,10.9,nan,nan
+1991,geoId/06029,Kern County,569829,nan,12.3,nan,nan
+1992,geoId/06029,Kern County,586745,nan,15.8,nan,nan
+1993,geoId/06029,Kern County,597880,nan,15.8,nan,nan
+1994,geoId/06029,Kern County,608858,nan,15.2,nan,nan
+1995,geoId/06029,Kern County,612897,nan,13.8,nan,nan
+1996,geoId/06029,Kern County,618020,nan,13.1,nan,nan
+1997,geoId/06029,Kern County,624577,nan,12.5,nan,nan
+1998,geoId/06029,Kern County,631615,nan,12.2,nan,nan
+1999,geoId/06029,Kern County,642495,nan,11.5,nan,nan
+2000,geoId/06029,Kern County,663487,nan,8.2,nan,nan
+2001,geoId/06029,Kern County,674548,nan,8.6,nan,nan
+2002,geoId/06029,Kern County,690146,nan,9.9,nan,nan
+2003,geoId/06029,Kern County,708305,nan,10.4,nan,nan
+2004,geoId/06029,Kern County,728087,nan,9.9,nan,nan
+2005,geoId/06029,Kern County,750114,nan,8.4,nan,nan
+2006,geoId/06029,Kern County,771350,nan,7.5,nan,nan
+2007,geoId/06029,Kern County,787573,nan,8.1,nan,nan
+2008,geoId/06029,Kern County,799959,nan,9.9,nan,nan
+2009,geoId/06029,Kern County,809046,nan,14.6,nan,nan
+2010,geoId/06029,Kern County,841072,nan,16,nan,nan
+2011,geoId/06029,Kern County,847970,30.6,15.1,48021,nan
+2012,geoId/06029,Kern County,853606,30.7,13.4,47727,nan
+2013,geoId/06029,Kern County,862000,30.8,11.9,48552,nan
+2014,geoId/06029,Kern County,869176,31,10.5,48574,nan
+2015,geoId/06029,Kern County,876031,31.1,10.3,49026,nan
+2016,geoId/06029,Kern County,880856,31.2,10.4,49788,nan
+2017,geoId/06029,Kern County,887356,31.3,9.3,50826,nan
+2018,geoId/06029,Kern County,893758,31.5,8.1,52479,nan
+2019,geoId/06029,Kern County,900202,31.6,7.9,53350,nan
+1980,geoId/06031,Kings County,73738,nan,nan,nan,nan
+1981,geoId/06031,Kings County,76229,nan,nan,nan,nan
+1982,geoId/06031,Kings County,78213,nan,nan,nan,nan
+1983,geoId/06031,Kings County,81138,nan,nan,nan,nan
+1984,geoId/06031,Kings County,83004,nan,nan,nan,nan
+1985,geoId/06031,Kings County,85205,nan,nan,nan,nan
+1986,geoId/06031,Kings County,86372,nan,nan,nan,nan
+1987,geoId/06031,Kings County,88032,nan,nan,nan,nan
+1988,geoId/06031,Kings County,94510,nan,nan,nan,nan
+1989,geoId/06031,Kings County,99850,nan,nan,nan,nan
+1990,geoId/06031,Kings County,101809,nan,11.2,nan,nan
+1991,geoId/06031,Kings County,104357,nan,12.8,nan,nan
+1992,geoId/06031,Kings County,106510,nan,15.3,nan,nan
+1993,geoId/06031,Kings County,107978,nan,15.3,nan,nan
+1994,geoId/06031,Kings County,110146,nan,14.3,nan,nan
+1995,geoId/06031,Kings County,112076,nan,14.5,nan,nan
+1996,geoId/06031,Kings County,113329,nan,13.3,nan,nan
+1997,geoId/06031,Kings County,114344,nan,13.3,nan,nan
+1998,geoId/06031,Kings County,118667,nan,13.9,nan,nan
+1999,geoId/06031,Kings County,123241,nan,13.2,nan,nan
+2000,geoId/06031,Kings County,129819,nan,9.9,nan,nan
+2001,geoId/06031,Kings County,132565,nan,10.7,nan,nan
+2002,geoId/06031,Kings County,134702,nan,11.8,nan,nan
+2003,geoId/06031,Kings County,138331,nan,12.1,nan,nan
+2004,geoId/06031,Kings County,142144,nan,11,nan,nan
+2005,geoId/06031,Kings County,143320,nan,9.4,nan,nan
+2006,geoId/06031,Kings County,145459,nan,8.4,nan,nan
+2007,geoId/06031,Kings County,147826,nan,8.6,nan,nan
+2008,geoId/06031,Kings County,149036,nan,10.6,nan,nan
+2009,geoId/06031,Kings County,148884,nan,14.8,nan,nan
+2010,geoId/06031,Kings County,152381,nan,16.5,nan,nan
+2011,geoId/06031,Kings County,151868,31,16.2,48838,nan
+2012,geoId/06031,Kings County,150991,31.2,15.1,48761,nan
+2013,geoId/06031,Kings County,150337,31.1,13.6,48133,nan
+2014,geoId/06031,Kings County,149495,31.2,12.1,47341,nan
+2015,geoId/06031,Kings County,150085,31.4,10.6,46481,nan
+2016,geoId/06031,Kings County,149382,31.4,10,47241,nan
+2017,geoId/06031,Kings County,149665,31.5,9,49742,nan
+2018,geoId/06031,Kings County,151382,31.7,7.9,53865,nan
+2019,geoId/06031,Kings County,152940,31.8,8,57848,nan
+1980,geoId/06033,Lake County,36366,nan,nan,nan,nan
+1981,geoId/06033,Lake County,38623,nan,nan,nan,nan
+1982,geoId/06033,Lake County,39991,nan,nan,nan,nan
+1983,geoId/06033,Lake County,41805,nan,nan,nan,nan
+1984,geoId/06033,Lake County,43812,nan,nan,nan,nan
+1985,geoId/06033,Lake County,45494,nan,nan,nan,nan
+1986,geoId/06033,Lake County,46135,nan,nan,nan,nan
+1987,geoId/06033,Lake County,47139,nan,nan,nan,nan
+1988,geoId/06033,Lake County,47911,nan,nan,nan,nan
+1989,geoId/06033,Lake County,48942,nan,nan,nan,nan
+1990,geoId/06033,Lake County,51106,nan,8.8,nan,nan
+1991,geoId/06033,Lake County,52802,nan,10.7,nan,nan
+1992,geoId/06033,Lake County,53919,nan,12.9,nan,nan
+1993,geoId/06033,Lake County,54839,nan,13.4,nan,nan
+1994,geoId/06033,Lake County,55243,nan,12.6,nan,nan
+1995,geoId/06033,Lake County,55230,nan,11.7,nan,nan
+1996,geoId/06033,Lake County,55098,nan,11.8,nan,nan
+1997,geoId/06033,Lake County,54842,nan,10.8,nan,nan
+1998,geoId/06033,Lake County,55076,nan,9.6,nan,nan
+1999,geoId/06033,Lake County,55405,nan,7.8,nan,nan
+2000,geoId/06033,Lake County,58570,nan,7.2,nan,nan
+2001,geoId/06033,Lake County,60381,nan,7.1,nan,nan
+2002,geoId/06033,Lake County,61806,nan,8.4,nan,nan
+2003,geoId/06033,Lake County,62919,nan,9.2,nan,nan
+2004,geoId/06033,Lake County,63668,nan,9,nan,nan
+2005,geoId/06033,Lake County,64491,nan,7.9,nan,nan
+2006,geoId/06033,Lake County,65000,nan,7.7,nan,nan
+2007,geoId/06033,Lake County,64993,nan,8.4,nan,nan
+2008,geoId/06033,Lake County,65427,nan,10.7,nan,nan
+2009,geoId/06033,Lake County,65561,nan,15.6,nan,nan
+2010,geoId/06033,Lake County,64735,nan,15.5,nan,nan
+2011,geoId/06033,Lake County,64251,44.3,14.8,39525,nan
+2012,geoId/06033,Lake County,63954,44.8,13,38147,nan
+2013,geoId/06033,Lake County,63796,45.1,11,36548,nan
+2014,geoId/06033,Lake County,64044,45.2,9,35997,nan
+2015,geoId/06033,Lake County,64260,45.5,7.6,35578,nan
+2016,geoId/06033,Lake County,63903,45.8,6.7,36132,nan
+2017,geoId/06033,Lake County,64111,45.8,5.8,40446,nan
+2018,geoId/06033,Lake County,64317,45.6,5.3,42475,nan
+2019,geoId/06033,Lake County,64386,45.6,5.2,47040,nan
+1980,geoId/06035,Lassen County,21661,nan,nan,nan,nan
+1981,geoId/06035,Lassen County,22570,nan,nan,nan,nan
+1982,geoId/06035,Lassen County,23370,nan,nan,nan,nan
+1983,geoId/06035,Lassen County,23558,nan,nan,nan,nan
+1984,geoId/06035,Lassen County,23830,nan,nan,nan,nan
+1985,geoId/06035,Lassen County,24128,nan,nan,nan,nan
+1986,geoId/06035,Lassen County,24639,nan,nan,nan,nan
+1987,geoId/06035,Lassen County,26051,nan,nan,nan,nan
+1988,geoId/06035,Lassen County,26681,nan,nan,nan,nan
+1989,geoId/06035,Lassen County,27334,nan,nan,nan,nan
+1990,geoId/06035,Lassen County,27653,nan,9.8,nan,nan
+1991,geoId/06035,Lassen County,28038,nan,10.5,nan,nan
+1992,geoId/06035,Lassen County,27973,nan,11.5,nan,nan
+1993,geoId/06035,Lassen County,28231,nan,12.4,nan,nan
+1994,geoId/06035,Lassen County,28062,nan,11.5,nan,nan
+1995,geoId/06035,Lassen County,28296,nan,11,nan,nan
+1996,geoId/06035,Lassen County,31270,nan,11,nan,nan
+1997,geoId/06035,Lassen County,33432,nan,9.7,nan,nan
+1998,geoId/06035,Lassen County,33281,nan,9.4,nan,nan
+1999,geoId/06035,Lassen County,33028,nan,7.1,nan,nan
+2000,geoId/06035,Lassen County,33728,nan,7.1,nan,nan
+2001,geoId/06035,Lassen County,33510,nan,7.4,nan,nan
+2002,geoId/06035,Lassen County,33329,nan,7.8,nan,nan
+2003,geoId/06035,Lassen County,33765,nan,7.8,nan,nan
+2004,geoId/06035,Lassen County,34222,nan,7.6,nan,nan
+2005,geoId/06035,Lassen County,34204,nan,8,nan,nan
+2006,geoId/06035,Lassen County,34249,nan,7.9,nan,nan
+2007,geoId/06035,Lassen County,35172,nan,8.1,nan,nan
+2008,geoId/06035,Lassen County,34738,nan,9.6,nan,nan
+2009,geoId/06035,Lassen County,34651,nan,12.8,nan,nan
+2010,geoId/06035,Lassen County,34832,nan,14.4,nan,nan
+2011,geoId/06035,Lassen County,34246,37,13.8,52484,nan
+2012,geoId/06035,Lassen County,33629,37.4,12.7,51921,nan
+2013,geoId/06035,Lassen County,32129,37.3,10.7,53107,nan
+2014,geoId/06035,Lassen County,31664,37.3,9.2,53351,nan
+2015,geoId/06035,Lassen County,31256,37,7.3,51555,nan
+2016,geoId/06035,Lassen County,30721,36.4,7,51457,nan
+2017,geoId/06035,Lassen County,30920,36.2,5.6,54083,nan
+2018,geoId/06035,Lassen County,30618,36,4.8,56362,nan
+2019,geoId/06035,Lassen County,30573,36.6,4.7,56352,nan
+1980,geoId/06037,Los Angeles County,7477239,nan,nan,nan,nan
+1981,geoId/06037,Los Angeles County,7608796,nan,nan,nan,nan
+1982,geoId/06037,Los Angeles County,7767422,nan,nan,nan,nan
+1983,geoId/06037,Los Angeles County,7920955,nan,nan,nan,nan
+1984,geoId/06037,Los Angeles County,8041685,nan,nan,nan,nan
+1985,geoId/06037,Los Angeles County,8182906,nan,nan,nan,nan
+1986,geoId/06037,Los Angeles County,8393640,nan,nan,nan,nan
+1987,geoId/06037,Los Angeles County,8553844,nan,nan,nan,nan
+1988,geoId/06037,Los Angeles County,8667680,nan,nan,nan,nan
+1989,geoId/06037,Los Angeles County,8793710,nan,nan,nan,nan
+1990,geoId/06037,Los Angeles County,8875317,nan,5.9,nan,nan
+1991,geoId/06037,Los Angeles County,8931985,nan,8,nan,nan
+1992,geoId/06037,Los Angeles County,9021867,nan,9.8,nan,nan
+1993,geoId/06037,Los Angeles County,9064197,nan,10,nan,nan
+1994,geoId/06037,Los Angeles County,9048129,nan,9.2,nan,nan
+1995,geoId/06037,Los Angeles County,9029470,nan,8.1,nan,nan
+1996,geoId/06037,Los Angeles County,9056547,nan,8.2,nan,nan
+1997,geoId/06037,Los Angeles County,9126131,nan,6.9,nan,nan
+1998,geoId/06037,Los Angeles County,9223807,nan,6.5,nan,nan
+1999,geoId/06037,Los Angeles County,9329989,nan,5.9,nan,nan
+2000,geoId/06037,Los Angeles County,9542100,nan,5.4,nan,nan
+2001,geoId/06037,Los Angeles County,9642296,nan,5.7,nan,nan
+2002,geoId/06037,Los Angeles County,9734137,nan,6.8,nan,nan
+2003,geoId/06037,Los Angeles County,9806607,nan,7,nan,nan
+2004,geoId/06037,Los Angeles County,9843680,nan,6.5,nan,nan
+2005,geoId/06037,Los Angeles County,9846755,nan,5.3,nan,nan
+2006,geoId/06037,Los Angeles County,9806147,nan,4.8,nan,nan
+2007,geoId/06037,Los Angeles County,9777595,nan,5.1,nan,nan
+2008,geoId/06037,Los Angeles County,9820942,nan,7.5,nan,nan
+2009,geoId/06037,Los Angeles County,9881323,nan,11.7,nan,nan
+2010,geoId/06037,Los Angeles County,9822433,nan,12.6,nan,nan
+2011,geoId/06037,Los Angeles County,9876482,34.6,12.2,56266,nan
+2012,geoId/06037,Los Angeles County,9935375,34.8,11,56241,nan
+2013,geoId/06037,Los Angeles County,9992484,35.1,9.8,55909,nan
+2014,geoId/06037,Los Angeles County,10040072,35.3,8.2,55870,nan
+2015,geoId/06037,Los Angeles County,10085416,35.6,6.7,56196,nan
+2016,geoId/06037,Los Angeles County,10105708,35.8,5.3,57952,nan
+2017,geoId/06037,Los Angeles County,10103711,36,4.8,61015,nan
+2018,geoId/06037,Los Angeles County,10073906,36.2,4.7,64251,nan
+2019,geoId/06037,Los Angeles County,10039107,36.5,4.6,68044,nan
+1980,geoId/06039,Madera County,63116,nan,nan,nan,nan
+1981,geoId/06039,Madera County,67214,nan,nan,nan,nan
+1982,geoId/06039,Madera County,69240,nan,nan,nan,nan
+1983,geoId/06039,Madera County,71504,nan,nan,nan,nan
+1984,geoId/06039,Madera County,72996,nan,nan,nan,nan
+1985,geoId/06039,Madera County,75118,nan,nan,nan,nan
+1986,geoId/06039,Madera County,76960,nan,nan,nan,nan
+1987,geoId/06039,Madera County,79003,nan,nan,nan,nan
+1988,geoId/06039,Madera County,81762,nan,nan,nan,nan
+1989,geoId/06039,Madera County,84797,nan,nan,nan,nan
+1990,geoId/06039,Madera County,89014,nan,13.4,nan,nan
+1991,geoId/06039,Madera County,95042,nan,15.1,nan,nan
+1992,geoId/06039,Madera County,98751,nan,16.8,nan,nan
+1993,geoId/06039,Madera County,102681,nan,16.3,nan,nan
+1994,geoId/06039,Madera County,105181,nan,15.5,nan,nan
+1995,geoId/06039,Madera County,106535,nan,14.9,nan,nan
+1996,geoId/06039,Madera County,109751,nan,14.3,nan,nan
+1997,geoId/06039,Madera County,112440,nan,13.6,nan,nan
+1998,geoId/06039,Madera County,114523,nan,12.8,nan,nan
+1999,geoId/06039,Madera County,116760,nan,11.7,nan,nan
+2000,geoId/06039,Madera County,123626,nan,8.6,nan,nan
+2001,geoId/06039,Madera County,125667,nan,9.6,nan,nan
+2002,geoId/06039,Madera County,128472,nan,10.7,nan,nan
+2003,geoId/06039,Madera County,132856,nan,10.4,nan,nan
+2004,geoId/06039,Madera County,137243,nan,9.2,nan,nan
+2005,geoId/06039,Madera County,140461,nan,7.9,nan,nan
+2006,geoId/06039,Madera County,143754,nan,7,nan,nan
+2007,geoId/06039,Madera County,146203,nan,7.4,nan,nan
+2008,geoId/06039,Madera County,148486,nan,9.5,nan,nan
+2009,geoId/06039,Madera County,149353,nan,13.9,nan,nan
+2010,geoId/06039,Madera County,151006,nan,17,nan,nan
+2011,geoId/06039,Madera County,151675,33.2,16.4,47724,nan
+2012,geoId/06039,Madera County,151527,33.2,14.7,47937,nan
+2013,geoId/06039,Madera County,151370,33.2,12.7,45625,nan
+2014,geoId/06039,Madera County,153456,33.3,11.3,45490,nan
+2015,geoId/06039,Madera County,153576,33.5,10.6,45073,nan
+2016,geoId/06039,Madera County,153956,33.5,9.3,45742,nan
+2017,geoId/06039,Madera County,155423,33.7,8.2,48210,nan
+2018,geoId/06039,Madera County,156882,33.9,7.1,52884,nan
+2019,geoId/06039,Madera County,157327,34.1,7,57585,nan
+1980,geoId/06041,Marin County,222592,nan,nan,nan,nan
+1981,geoId/06041,Marin County,223911,nan,nan,nan,nan
+1982,geoId/06041,Marin County,223426,nan,nan,nan,nan
+1983,geoId/06041,Marin County,223972,nan,nan,nan,nan
+1984,geoId/06041,Marin County,223232,nan,nan,nan,nan
+1985,geoId/06041,Marin County,222459,nan,nan,nan,nan
+1986,geoId/06041,Marin County,224013,nan,nan,nan,nan
+1987,geoId/06041,Marin County,224938,nan,nan,nan,nan
+1988,geoId/06041,Marin County,226013,nan,nan,nan,nan
+1989,geoId/06041,Marin County,229176,nan,nan,nan,nan
+1990,geoId/06041,Marin County,230263,nan,2.5,nan,nan
+1991,geoId/06041,Marin County,232088,nan,3.9,nan,nan
+1992,geoId/06041,Marin County,233528,nan,5.1,nan,nan
+1993,geoId/06041,Marin County,234606,nan,5.2,nan,nan
+1994,geoId/06041,Marin County,234777,nan,4.7,nan,nan
+1995,geoId/06041,Marin County,233943,nan,4.3,nan,nan
+1996,geoId/06041,Marin County,232489,nan,3.5,nan,nan
+1997,geoId/06041,Marin County,234518,nan,2.9,nan,nan
+1998,geoId/06041,Marin County,236377,nan,2.3,nan,nan
+1999,geoId/06041,Marin County,236768,nan,2,nan,nan
+2000,geoId/06041,Marin County,247600,nan,2.8,nan,nan
+2001,geoId/06041,Marin County,248124,nan,3.5,nan,nan
+2002,geoId/06041,Marin County,246630,nan,4.9,nan,nan
+2003,geoId/06041,Marin County,245591,nan,5,nan,nan
+2004,geoId/06041,Marin County,244410,nan,4.4,nan,nan
+2005,geoId/06041,Marin County,244958,nan,3.9,nan,nan
+2006,geoId/06041,Marin County,245360,nan,3.5,nan,nan
+2007,geoId/06041,Marin County,247083,nan,3.6,nan,nan
+2008,geoId/06041,Marin County,249270,nan,4.7,nan,nan
+2009,geoId/06041,Marin County,251765,nan,7.8,nan,nan
+2010,geoId/06041,Marin County,252905,nan,8.1,nan,nan
+2011,geoId/06041,Marin County,255376,44.3,7.4,89605,nan
+2012,geoId/06041,Marin County,256061,44.6,6.4,90962,nan
+2013,geoId/06041,Marin County,258409,44.8,5.2,90839,nan
+2014,geoId/06041,Marin County,260359,45.1,4.3,91529,nan
+2015,geoId/06041,Marin County,260916,45.4,3.6,93257,nan
+2016,geoId/06041,Marin County,260562,45.7,3.3,100310,nan
+2017,geoId/06041,Marin County,259749,46.1,2.9,104703,nan
+2018,geoId/06041,Marin County,259662,46.5,2.4,110217,nan
+2019,geoId/06041,Marin County,258826,46.8,2.4,115246,nan
+1980,geoId/06043,Mariposa County,11108,nan,nan,nan,nan
+1981,geoId/06043,Mariposa County,11555,nan,nan,nan,nan
+1982,geoId/06043,Mariposa County,11798,nan,nan,nan,nan
+1983,geoId/06043,Mariposa County,11980,nan,nan,nan,nan
+1984,geoId/06043,Mariposa County,12310,nan,nan,nan,nan
+1985,geoId/06043,Mariposa County,12654,nan,nan,nan,nan
+1986,geoId/06043,Mariposa County,12873,nan,nan,nan,nan
+1987,geoId/06043,Mariposa County,13130,nan,nan,nan,nan
+1988,geoId/06043,Mariposa County,13514,nan,nan,nan,nan
+1989,geoId/06043,Mariposa County,13907,nan,nan,nan,nan
+1990,geoId/06043,Mariposa County,14412,nan,5.6,nan,nan
+1991,geoId/06043,Mariposa County,14862,nan,7.2,nan,nan
+1992,geoId/06043,Mariposa County,15242,nan,8.8,nan,nan
+1993,geoId/06043,Mariposa County,15439,nan,10.1,nan,nan
+1994,geoId/06043,Mariposa County,15553,nan,9.6,nan,nan
+1995,geoId/06043,Mariposa County,15652,nan,9.3,nan,nan
+1996,geoId/06043,Mariposa County,15836,nan,9.1,nan,nan
+1997,geoId/06043,Mariposa County,15559,nan,10.1,nan,nan
+1998,geoId/06043,Mariposa County,15786,nan,7.7,nan,nan
+1999,geoId/06043,Mariposa County,15605,nan,7.5,nan,nan
+2000,geoId/06043,Mariposa County,17108,nan,6.1,nan,nan
+2001,geoId/06043,Mariposa County,17085,nan,5.8,nan,nan
+2002,geoId/06043,Mariposa County,17202,nan,6.5,nan,nan
+2003,geoId/06043,Mariposa County,17622,nan,7,nan,nan
+2004,geoId/06043,Mariposa County,17713,nan,6.7,nan,nan
+2005,geoId/06043,Mariposa County,17794,nan,6.3,nan,nan
+2006,geoId/06043,Mariposa County,17979,nan,5.6,nan,nan
+2007,geoId/06043,Mariposa County,18061,nan,6,nan,nan
+2008,geoId/06043,Mariposa County,18044,nan,7.6,nan,nan
+2009,geoId/06043,Mariposa County,17789,nan,10.7,nan,nan
+2010,geoId/06043,Mariposa County,18277,nan,13.3,nan,nan
+2011,geoId/06043,Mariposa County,18168,48.4,13.4,49174,nan
+2012,geoId/06043,Mariposa County,17880,49.4,12.4,52584,nan
+2013,geoId/06043,Mariposa County,17808,50.1,10.6,49820,nan
+2014,geoId/06043,Mariposa County,17713,50.2,8.9,50560,nan
+2015,geoId/06043,Mariposa County,17622,50.6,7.2,47681,nan
+2016,geoId/06043,Mariposa County,17455,50.6,6.9,49265,nan
+2017,geoId/06043,Mariposa County,17437,51.1,5.9,51385,nan
+2018,geoId/06043,Mariposa County,17471,51.4,5.4,51199,nan
+2019,geoId/06043,Mariposa County,17420,51.7,4.6,48820,nan
+1980,geoId/06045,Mendocino County,66738,nan,nan,nan,nan
+1981,geoId/06045,Mendocino County,68385,nan,nan,nan,nan
+1982,geoId/06045,Mendocino County,69726,nan,nan,nan,nan
+1983,geoId/06045,Mendocino County,70700,nan,nan,nan,nan
+1984,geoId/06045,Mendocino County,71811,nan,nan,nan,nan
+1985,geoId/06045,Mendocino County,73390,nan,nan,nan,nan
+1986,geoId/06045,Mendocino County,74293,nan,nan,nan,nan
+1987,geoId/06045,Mendocino County,75320,nan,nan,nan,nan
+1988,geoId/06045,Mendocino County,76493,nan,nan,nan,nan
+1989,geoId/06045,Mendocino County,78444,nan,nan,nan,nan
+1990,geoId/06045,Mendocino County,80820,nan,7.6,nan,nan
+1991,geoId/06045,Mendocino County,81543,nan,10.7,nan,nan
+1992,geoId/06045,Mendocino County,81645,nan,12.3,nan,nan
+1993,geoId/06045,Mendocino County,81629,nan,11.3,nan,nan
+1994,geoId/06045,Mendocino County,81791,nan,9.7,nan,nan
+1995,geoId/06045,Mendocino County,82483,nan,9.5,nan,nan
+1996,geoId/06045,Mendocino County,82930,nan,8.8,nan,nan
+1997,geoId/06045,Mendocino County,83268,nan,8.1,nan,nan
+1998,geoId/06045,Mendocino County,83754,nan,7.9,nan,nan
+1999,geoId/06045,Mendocino County,84085,nan,6.8,nan,nan
+2000,geoId/06045,Mendocino County,86373,nan,5.5,nan,nan
+2001,geoId/06045,Mendocino County,86673,nan,6,nan,nan
+2002,geoId/06045,Mendocino County,87056,nan,6.7,nan,nan
+2003,geoId/06045,Mendocino County,87678,nan,6.9,nan,nan
+2004,geoId/06045,Mendocino County,87419,nan,6.4,nan,nan
+2005,geoId/06045,Mendocino County,87219,nan,5.7,nan,nan
+2006,geoId/06045,Mendocino County,86418,nan,5.2,nan,nan
+2007,geoId/06045,Mendocino County,85993,nan,5.4,nan,nan
+2008,geoId/06045,Mendocino County,86218,nan,6.9,nan,nan
+2009,geoId/06045,Mendocino County,86299,nan,10.5,nan,nan
+2010,geoId/06045,Mendocino County,87800,nan,11.9,nan,nan
+2011,geoId/06045,Mendocino County,87334,41.4,11.6,44527,nan
+2012,geoId/06045,Mendocino County,87288,41.7,10.2,43721,nan
+2013,geoId/06045,Mendocino County,87054,41.8,8.5,43469,nan
+2014,geoId/06045,Mendocino County,87225,42,7.1,43290,nan
+2015,geoId/06045,Mendocino County,87107,42.2,5.9,42980,nan
+2016,geoId/06045,Mendocino County,87285,42.3,5.3,43510,nan
+2017,geoId/06045,Mendocino County,87576,42.4,4.6,46528,nan
+2018,geoId/06045,Mendocino County,87401,42.8,4,49233,nan
+2019,geoId/06045,Mendocino County,86749,43.1,4,51416,nan
+1980,geoId/06047,Merced County,134557,nan,nan,nan,nan
+1981,geoId/06047,Merced County,139632,nan,nan,nan,nan
+1982,geoId/06047,Merced County,142766,nan,nan,nan,nan
+1983,geoId/06047,Merced County,147657,nan,nan,nan,nan
+1984,geoId/06047,Merced County,151357,nan,nan,nan,nan
+1985,geoId/06047,Merced County,155939,nan,nan,nan,nan
+1986,geoId/06047,Merced County,158988,nan,nan,nan,nan
+1987,geoId/06047,Merced County,162956,nan,nan,nan,nan
+1988,geoId/06047,Merced County,167749,nan,nan,nan,nan
+1989,geoId/06047,Merced County,172988,nan,nan,nan,nan
+1990,geoId/06047,Merced County,179812,nan,12.8,nan,nan
+1991,geoId/06047,Merced County,185381,nan,15.8,nan,nan
+1992,geoId/06047,Merced County,188184,nan,17.5,nan,nan
+1993,geoId/06047,Merced County,191195,nan,17.4,nan,nan
+1994,geoId/06047,Merced County,195205,nan,16.3,nan,nan
+1995,geoId/06047,Merced County,192175,nan,17,nan,nan
+1996,geoId/06047,Merced County,190991,nan,16.8,nan,nan
+1997,geoId/06047,Merced County,193893,nan,15.7,nan,nan
+1998,geoId/06047,Merced County,197261,nan,15.2,nan,nan
+1999,geoId/06047,Merced County,200746,nan,13.5,nan,nan
+2000,geoId/06047,Merced County,212140,nan,9.5,nan,nan
+2001,geoId/06047,Merced County,218154,nan,10.2,nan,nan
+2002,geoId/06047,Merced County,224099,nan,11.1,nan,nan
+2003,geoId/06047,Merced County,229755,nan,11.6,nan,nan
+2004,geoId/06047,Merced County,234502,nan,10.9,nan,nan
+2005,geoId/06047,Merced County,239130,nan,10,nan,nan
+2006,geoId/06047,Merced County,241844,nan,9.4,nan,nan
+2007,geoId/06047,Merced County,244365,nan,10,nan,nan
+2008,geoId/06047,Merced County,245721,nan,12.7,nan,nan
+2009,geoId/06047,Merced County,246795,nan,17.3,nan,nan
+2010,geoId/06047,Merced County,256732,nan,18.4,nan,nan
+2011,geoId/06047,Merced County,259297,29.5,17.9,43945,nan
+2012,geoId/06047,Merced County,260867,29.7,16.6,43565,nan
+2013,geoId/06047,Merced County,262026,30,14.7,42591,nan
+2014,geoId/06047,Merced County,264419,30.2,13,43066,nan
+2015,geoId/06047,Merced County,266353,30.4,11.4,42462,nan
+2016,geoId/06047,Merced County,267628,30.6,10.6,44397,nan
+2017,geoId/06047,Merced County,271096,30.8,9.4,46338,nan
+2018,geoId/06047,Merced County,274151,30.9,8.5,50129,nan
+2019,geoId/06047,Merced County,277680,31.1,8.2,53672,nan
+1980,geoId/06049,Modoc County,8610,nan,nan,nan,nan
+1981,geoId/06049,Modoc County,8988,nan,nan,nan,nan
+1982,geoId/06049,Modoc County,9268,nan,nan,nan,nan
+1983,geoId/06049,Modoc County,9467,nan,nan,nan,nan
+1984,geoId/06049,Modoc County,9630,nan,nan,nan,nan
+1985,geoId/06049,Modoc County,9499,nan,nan,nan,nan
+1986,geoId/06049,Modoc County,9368,nan,nan,nan,nan
+1987,geoId/06049,Modoc County,9350,nan,nan,nan,nan
+1988,geoId/06049,Modoc County,9361,nan,nan,nan,nan
+1989,geoId/06049,Modoc County,9662,nan,nan,nan,nan
+1990,geoId/06049,Modoc County,9668,nan,9.6,nan,nan
+1991,geoId/06049,Modoc County,9693,nan,12.6,nan,nan
+1992,geoId/06049,Modoc County,9775,nan,12.9,nan,nan
+1993,geoId/06049,Modoc County,9590,nan,13.6,nan,nan
+1994,geoId/06049,Modoc County,9682,nan,12.1,nan,nan
+1995,geoId/06049,Modoc County,9578,nan,13.2,nan,nan
+1996,geoId/06049,Modoc County,9642,nan,12.2,nan,nan
+1997,geoId/06049,Modoc County,9603,nan,11.7,nan,nan
+1998,geoId/06049,Modoc County,9338,nan,11.2,nan,nan
+1999,geoId/06049,Modoc County,9210,nan,8.6,nan,nan
+2000,geoId/06049,Modoc County,9390,nan,7.4,nan,nan
+2001,geoId/06049,Modoc County,9286,nan,7,nan,nan
+2002,geoId/06049,Modoc County,9250,nan,7.9,nan,nan
+2003,geoId/06049,Modoc County,9337,nan,8.8,nan,nan
+2004,geoId/06049,Modoc County,9387,nan,8.8,nan,nan
+2005,geoId/06049,Modoc County,9298,nan,7.9,nan,nan
+2006,geoId/06049,Modoc County,9295,nan,7.8,nan,nan
+2007,geoId/06049,Modoc County,9155,nan,8,nan,nan
+2008,geoId/06049,Modoc County,9129,nan,9.7,nan,nan
+2009,geoId/06049,Modoc County,9170,nan,12.6,nan,nan
+2010,geoId/06049,Modoc County,9699,nan,15.5,nan,nan
+2011,geoId/06049,Modoc County,9512,46.5,16.2,35402,nan
+2012,geoId/06049,Modoc County,9355,46.8,14.6,37482,nan
+2013,geoId/06049,Modoc County,9149,46.9,12.4,36212,nan
+2014,geoId/06049,Modoc County,9080,47.1,10.4,38560,nan
+2015,geoId/06049,Modoc County,9048,47.8,8.6,37860,nan
+2016,geoId/06049,Modoc County,8935,47.1,7.8,41194,nan
+2017,geoId/06049,Modoc County,8848,47.8,8.2,39296,nan
+2018,geoId/06049,Modoc County,8777,47.7,7.6,45149,nan
+2019,geoId/06049,Modoc County,8907,47.8,7.2,45507,nan
+1980,geoId/06051,Mono County,8577,nan,nan,nan,nan
+1981,geoId/06051,Mono County,8916,nan,nan,nan,nan
+1982,geoId/06051,Mono County,9278,nan,nan,nan,nan
+1983,geoId/06051,Mono County,9225,nan,nan,nan,nan
+1984,geoId/06051,Mono County,8790,nan,nan,nan,nan
+1985,geoId/06051,Mono County,8806,nan,nan,nan,nan
+1986,geoId/06051,Mono County,8795,nan,nan,nan,nan
+1987,geoId/06051,Mono County,8916,nan,nan,nan,nan
+1988,geoId/06051,Mono County,9071,nan,nan,nan,nan
+1989,geoId/06051,Mono County,9514,nan,nan,nan,nan
+1990,geoId/06051,Mono County,10075,nan,5.9,nan,nan
+1991,geoId/06051,Mono County,9806,nan,12.1,nan,nan
+1992,geoId/06051,Mono County,9933,nan,10.7,nan,nan
+1993,geoId/06051,Mono County,10260,nan,9.4,nan,nan
+1994,geoId/06051,Mono County,10559,nan,10.4,nan,nan
+1995,geoId/06051,Mono County,10488,nan,10.8,nan,nan
+1996,geoId/06051,Mono County,10400,nan,10.9,nan,nan
+1997,geoId/06051,Mono County,10410,nan,10.4,nan,nan
+1998,geoId/06051,Mono County,10307,nan,8.2,nan,nan
+1999,geoId/06051,Mono County,10512,nan,6.8,nan,nan
+2000,geoId/06051,Mono County,12896,nan,4.6,nan,nan
+2001,geoId/06051,Mono County,13100,nan,4.7,nan,nan
+2002,geoId/06051,Mono County,13173,nan,5.2,nan,nan
+2003,geoId/06051,Mono County,13016,nan,5.1,nan,nan
+2004,geoId/06051,Mono County,12917,nan,5.1,nan,nan
+2005,geoId/06051,Mono County,12890,nan,4.8,nan,nan
+2006,geoId/06051,Mono County,13129,nan,4.4,nan,nan
+2007,geoId/06051,Mono County,12851,nan,4.8,nan,nan
+2008,geoId/06051,Mono County,12902,nan,5.9,nan,nan
+2009,geoId/06051,Mono County,12914,nan,9.2,nan,nan
+2010,geoId/06051,Mono County,14257,nan,10.4,nan,nan
+2011,geoId/06051,Mono County,14423,36.5,10.2,60469,nan
+2012,geoId/06051,Mono County,14334,37.1,10.5,61868,nan
+2013,geoId/06051,Mono County,14074,37.2,8.6,61757,nan
+2014,geoId/06051,Mono County,14142,37.2,7.1,61814,nan
+2015,geoId/06051,Mono County,14043,38.5,6.2,56944,nan
+2016,geoId/06051,Mono County,14202,38.9,5.4,58937,nan
+2017,geoId/06051,Mono County,14235,38.3,4.5,60595,nan
+2018,geoId/06051,Mono County,14250,38.3,4.1,63018,nan
+2019,geoId/06051,Mono County,14310,37.7,3.8,62260,nan
+1980,geoId/06053,Monterey County,290444,nan,nan,nan,nan
+1981,geoId/06053,Monterey County,299677,nan,nan,nan,nan
+1982,geoId/06053,Monterey County,306241,nan,nan,nan,nan
+1983,geoId/06053,Monterey County,313698,nan,nan,nan,nan
+1984,geoId/06053,Monterey County,321458,nan,nan,nan,nan
+1985,geoId/06053,Monterey County,328102,nan,nan,nan,nan
+1986,geoId/06053,Monterey County,335849,nan,nan,nan,nan
+1987,geoId/06053,Monterey County,341268,nan,nan,nan,nan
+1988,geoId/06053,Monterey County,345947,nan,nan,nan,nan
+1989,geoId/06053,Monterey County,349872,nan,nan,nan,nan
+1990,geoId/06053,Monterey County,356947,nan,9.6,nan,nan
+1991,geoId/06053,Monterey County,361559,nan,11.4,nan,nan
+1992,geoId/06053,Monterey County,366296,nan,12.5,nan,nan
+1993,geoId/06053,Monterey County,362913,nan,13.1,nan,nan
+1994,geoId/06053,Monterey County,342872,nan,12.5,nan,nan
+1995,geoId/06053,Monterey County,343082,nan,12.3,nan,nan
+1996,geoId/06053,Monterey County,347292,nan,11.4,nan,nan
+1997,geoId/06053,Monterey County,358888,nan,11,nan,nan
+1998,geoId/06053,Monterey County,366631,nan,10.8,nan,nan
+1999,geoId/06053,Monterey County,371756,nan,9.7,nan,nan
+2000,geoId/06053,Monterey County,403114,nan,7.3,nan,nan
+2001,geoId/06053,Monterey County,407425,nan,7.8,nan,nan
+2002,geoId/06053,Monterey County,409481,nan,9,nan,nan
+2003,geoId/06053,Monterey County,410372,nan,9,nan,nan
+2004,geoId/06053,Monterey County,409491,nan,8.3,nan,nan
+2005,geoId/06053,Monterey County,405970,nan,7.3,nan,nan
+2006,geoId/06053,Monterey County,402606,nan,6.9,nan,nan
+2007,geoId/06053,Monterey County,403201,nan,7.1,nan,nan
+2008,geoId/06053,Monterey County,406888,nan,8.5,nan,nan
+2009,geoId/06053,Monterey County,411124,nan,12,nan,nan
+2010,geoId/06053,Monterey County,416396,nan,13,nan,nan
+2011,geoId/06053,Monterey County,420456,32.8,12.9,59737,nan
+2012,geoId/06053,Monterey County,424788,32.9,11.8,60143,nan
+2013,geoId/06053,Monterey County,426712,33,10.4,59168,nan
+2014,geoId/06053,Monterey County,428475,33.3,9.2,58582,nan
+2015,geoId/06053,Monterey County,430552,33.5,8.2,58783,nan
+2016,geoId/06053,Monterey County,433953,33.7,7.7,60889,nan
+2017,geoId/06053,Monterey County,434534,33.9,7.2,63249,nan
+2018,geoId/06053,Monterey County,433950,34.1,6.4,66676,nan
+2019,geoId/06053,Monterey County,434061,34.4,6.4,71015,nan
+1980,geoId/06055,Napa County,99199,nan,nan,nan,nan
+1981,geoId/06055,Napa County,99662,nan,nan,nan,nan
+1982,geoId/06055,Napa County,101178,nan,nan,nan,nan
+1983,geoId/06055,Napa County,101549,nan,nan,nan,nan
+1984,geoId/06055,Napa County,101902,nan,nan,nan,nan
+1985,geoId/06055,Napa County,103014,nan,nan,nan,nan
+1986,geoId/06055,Napa County,104237,nan,nan,nan,nan
+1987,geoId/06055,Napa County,105010,nan,nan,nan,nan
+1988,geoId/06055,Napa County,106130,nan,nan,nan,nan
+1989,geoId/06055,Napa County,108662,nan,nan,nan,nan
+1990,geoId/06055,Napa County,111215,nan,4.1,nan,nan
+1991,geoId/06055,Napa County,111897,nan,5.8,nan,nan
+1992,geoId/06055,Napa County,113631,nan,7.2,nan,nan
+1993,geoId/06055,Napa County,114034,nan,7.9,nan,nan
+1994,geoId/06055,Napa County,114956,nan,7,nan,nan
+1995,geoId/06055,Napa County,115320,nan,6.2,nan,nan
+1996,geoId/06055,Napa County,116387,nan,6.1,nan,nan
+1997,geoId/06055,Napa County,117944,nan,5.2,nan,nan
+1998,geoId/06055,Napa County,119540,nan,4,nan,nan
+1999,geoId/06055,Napa County,120962,nan,3.3,nan,nan
+2000,geoId/06055,Napa County,124604,nan,3.6,nan,nan
+2001,geoId/06055,Napa County,126879,nan,3.6,nan,nan
+2002,geoId/06055,Napa County,128843,nan,4.6,nan,nan
+2003,geoId/06055,Napa County,130255,nan,4.9,nan,nan
+2004,geoId/06055,Napa County,130539,nan,4.7,nan,nan
+2005,geoId/06055,Napa County,130516,nan,4.4,nan,nan
+2006,geoId/06055,Napa County,131546,nan,3.9,nan,nan
+2007,geoId/06055,Napa County,132667,nan,4,nan,nan
+2008,geoId/06055,Napa County,134295,nan,5.1,nan,nan
+2009,geoId/06055,Napa County,135285,nan,8.7,nan,nan
+2010,geoId/06055,Napa County,136808,nan,10.6,nan,nan
+2011,geoId/06055,Napa County,137691,39.5,10,68641,nan
+2012,geoId/06055,Napa County,138538,39.6,8.6,69571,nan
+2013,geoId/06055,Napa County,139580,39.8,7,70443,nan
+2014,geoId/06055,Napa County,140405,40.3,5.7,70925,nan
+2015,geoId/06055,Napa County,140862,40.3,4.6,71379,nan
+2016,geoId/06055,Napa County,140840,40.7,4.3,74609,nan
+2017,geoId/06055,Napa County,139878,40.8,3.7,79637,nan
+2018,geoId/06055,Napa County,138789,41.1,3,84753,nan
+2019,geoId/06055,Napa County,137744,41.3,2.9,88596,nan
+1980,geoId/06057,Nevada County,51645,nan,nan,nan,nan
+1981,geoId/06057,Nevada County,56160,nan,nan,nan,nan
+1982,geoId/06057,Nevada County,59087,nan,nan,nan,nan
+1983,geoId/06057,Nevada County,60782,nan,nan,nan,nan
+1984,geoId/06057,Nevada County,62829,nan,nan,nan,nan
+1985,geoId/06057,Nevada County,65287,nan,nan,nan,nan
+1986,geoId/06057,Nevada County,67718,nan,nan,nan,nan
+1987,geoId/06057,Nevada County,70556,nan,nan,nan,nan
+1988,geoId/06057,Nevada County,73369,nan,nan,nan,nan
+1989,geoId/06057,Nevada County,76133,nan,nan,nan,nan
+1990,geoId/06057,Nevada County,79185,nan,4.8,nan,nan
+1991,geoId/06057,Nevada County,81419,nan,6.6,nan,nan
+1992,geoId/06057,Nevada County,83131,nan,8.5,nan,nan
+1993,geoId/06057,Nevada County,84221,nan,8.5,nan,nan
+1994,geoId/06057,Nevada County,85644,nan,7.5,nan,nan
+1995,geoId/06057,Nevada County,87105,nan,7.5,nan,nan
+1996,geoId/06057,Nevada County,88579,nan,7,nan,nan
+1997,geoId/06057,Nevada County,89981,nan,6.2,nan,nan
+1998,geoId/06057,Nevada County,91114,nan,5.4,nan,nan
+1999,geoId/06057,Nevada County,92014,nan,4.1,nan,nan
+2000,geoId/06057,Nevada County,92521,nan,4.1,nan,nan
+2001,geoId/06057,Nevada County,93699,nan,4.4,nan,nan
+2002,geoId/06057,Nevada County,94608,nan,5.3,nan,nan
+2003,geoId/06057,Nevada County,95534,nan,5.6,nan,nan
+2004,geoId/06057,Nevada County,96399,nan,5.3,nan,nan
+2005,geoId/06057,Nevada County,97085,nan,4.8,nan,nan
+2006,geoId/06057,Nevada County,97343,nan,4.4,nan,nan
+2007,geoId/06057,Nevada County,97542,nan,4.7,nan,nan
+2008,geoId/06057,Nevada County,97885,nan,6.6,nan,nan
+2009,geoId/06057,Nevada County,98205,nan,10.7,nan,nan
+2010,geoId/06057,Nevada County,98785,nan,12,nan,nan
+2011,geoId/06057,Nevada County,98701,47.3,11.3,58077,nan
+2012,geoId/06057,Nevada County,98137,48,9.9,57382,nan
+2013,geoId/06057,Nevada County,97938,48.5,8.2,57353,nan
+2014,geoId/06057,Nevada County,98572,48.8,6.6,56949,nan
+2015,geoId/06057,Nevada County,98676,49,5.5,56521,nan
+2016,geoId/06057,Nevada County,98913,49.5,4.8,57429,nan
+2017,geoId/06057,Nevada County,99367,49.8,4.1,60610,nan
+2018,geoId/06057,Nevada County,99508,50.1,3.5,63240,nan
+2019,geoId/06057,Nevada County,99755,50.5,3.4,66096,nan
+1980,geoId/06059,Orange County,1932921,nan,nan,nan,nan
+1981,geoId/06059,Orange County,2004806,nan,nan,nan,nan
+1982,geoId/06059,Orange County,2045925,nan,nan,nan,nan
+1983,geoId/06059,Orange County,2088886,nan,nan,nan,nan
+1984,geoId/06059,Orange County,2123362,nan,nan,nan,nan
+1985,geoId/06059,Orange County,2171930,nan,nan,nan,nan
+1986,geoId/06059,Orange County,2228895,nan,nan,nan,nan
+1987,geoId/06059,Orange County,2281486,nan,nan,nan,nan
+1988,geoId/06059,Orange County,2333101,nan,nan,nan,nan
+1989,geoId/06059,Orange County,2383920,nan,nan,nan,nan
+1990,geoId/06059,Orange County,2417569,nan,3.5,nan,nan
+1991,geoId/06059,Orange County,2445044,nan,5.3,nan,nan
+1992,geoId/06059,Orange County,2483337,nan,6.7,nan,nan
+1993,geoId/06059,Orange County,2513289,nan,6.8,nan,nan
+1994,geoId/06059,Orange County,2541371,nan,5.8,nan,nan
+1995,geoId/06059,Orange County,2572393,nan,5.1,nan,nan
+1996,geoId/06059,Orange County,2606488,nan,4.2,nan,nan
+1997,geoId/06059,Orange County,2665599,nan,3.3,nan,nan
+1998,geoId/06059,Orange County,2723782,nan,2.9,nan,nan
+1999,geoId/06059,Orange County,2760948,nan,2.7,nan,nan
+2000,geoId/06059,Orange County,2856241,nan,3.5,nan,nan
+2001,geoId/06059,Orange County,2893267,nan,4,nan,nan
+2002,geoId/06059,Orange County,2922047,nan,5,nan,nan
+2003,geoId/06059,Orange County,2949010,nan,4.8,nan,nan
+2004,geoId/06059,Orange County,2967094,nan,4.2,nan,nan
+2005,geoId/06059,Orange County,2970818,nan,3.7,nan,nan
+2006,geoId/06059,Orange County,2967793,nan,3.4,nan,nan
+2007,geoId/06059,Orange County,2972372,nan,3.8,nan,nan
+2008,geoId/06059,Orange County,3003636,nan,5.3,nan,nan
+2009,geoId/06059,Orange County,3038426,nan,9,nan,nan
+2010,geoId/06059,Orange County,3016559,nan,10,nan,nan
+2011,geoId/06059,Orange County,3049271,36,9.3,75762,nan
+2012,geoId/06059,Orange County,3078068,36.2,8,75566,nan
+2013,geoId/06059,Orange County,3104950,36.4,6.7,75422,nan
+2014,geoId/06059,Orange County,3126537,36.7,5.6,75998,nan
+2015,geoId/06059,Orange County,3149280,37.1,4.5,76509,nan
+2016,geoId/06059,Orange County,3164986,37.3,4.1,78145,nan
+2017,geoId/06059,Orange County,3174289,37.5,3.5,81851,nan
+2018,geoId/06059,Orange County,3175973,37.8,3,85398,nan
+2019,geoId/06059,Orange County,3175692,38.1,2.8,90234,nan
+1980,geoId/06061,Placer County,117247,nan,nan,nan,nan
+1981,geoId/06061,Placer County,122444,nan,nan,nan,nan
+1982,geoId/06061,Placer County,126216,nan,nan,nan,nan
+1983,geoId/06061,Placer County,128535,nan,nan,nan,nan
+1984,geoId/06061,Placer County,132575,nan,nan,nan,nan
+1985,geoId/06061,Placer County,136789,nan,nan,nan,nan
+1986,geoId/06061,Placer County,141432,nan,nan,nan,nan
+1987,geoId/06061,Placer County,147363,nan,nan,nan,nan
+1988,geoId/06061,Placer County,153610,nan,nan,nan,nan
+1989,geoId/06061,Placer County,162658,nan,nan,nan,nan
+1990,geoId/06061,Placer County,175421,nan,4.2,nan,nan
+1991,geoId/06061,Placer County,181342,nan,6.5,nan,nan
+1992,geoId/06061,Placer County,186799,nan,8.5,nan,nan
+1993,geoId/06061,Placer County,192007,nan,8.1,nan,nan
+1994,geoId/06061,Placer County,198429,nan,6.7,nan,nan
+1995,geoId/06061,Placer County,205963,nan,6.1,nan,nan
+1996,geoId/06061,Placer County,213335,nan,5.5,nan,nan
+1997,geoId/06061,Placer County,220477,nan,4.7,nan,nan
+1998,geoId/06061,Placer County,229216,nan,4.1,nan,nan
+1999,geoId/06061,Placer County,239485,nan,3.3,nan,nan
+2000,geoId/06061,Placer County,251129,nan,3.6,nan,nan
+2001,geoId/06061,Placer County,264207,nan,4,nan,nan
+2002,geoId/06061,Placer County,278002,nan,5,nan,nan
+2003,geoId/06061,Placer County,292368,nan,5.2,nan,nan
+2004,geoId/06061,Placer County,305046,nan,4.8,nan,nan
+2005,geoId/06061,Placer County,315516,nan,4.3,nan,nan
+2006,geoId/06061,Placer County,325215,nan,4.2,nan,nan
+2007,geoId/06061,Placer County,332857,nan,4.7,nan,nan
+2008,geoId/06061,Placer County,341960,nan,6.5,nan,nan
+2009,geoId/06061,Placer County,348711,nan,10.6,nan,nan
+2010,geoId/06061,Placer County,350026,nan,11.9,nan,nan
+2011,geoId/06061,Placer County,356328,40,11,74645,nan
+2012,geoId/06061,Placer County,360263,40.2,9.5,73356,nan
+2013,geoId/06061,Placer County,365398,40.4,7.8,72725,nan
+2014,geoId/06061,Placer County,369217,40.7,6.3,73747,nan
+2015,geoId/06061,Placer County,372841,41,5.1,73948,nan
+2016,geoId/06061,Placer County,378943,41.5,4.5,76926,nan
+2017,geoId/06061,Placer County,385115,41.6,3.9,80488,nan
+2018,geoId/06061,Placer County,392330,41.9,3.2,84357,nan
+2019,geoId/06061,Placer County,398329,42,3.2,89691,nan
+1980,geoId/06063,Plumas County,17340,nan,nan,nan,nan
+1981,geoId/06063,Plumas County,17808,nan,nan,nan,nan
+1982,geoId/06063,Plumas County,18176,nan,nan,nan,nan
+1983,geoId/06063,Plumas County,18024,nan,nan,nan,nan
+1984,geoId/06063,Plumas County,18154,nan,nan,nan,nan
+1985,geoId/06063,Plumas County,18606,nan,nan,nan,nan
+1986,geoId/06063,Plumas County,18693,nan,nan,nan,nan
+1987,geoId/06063,Plumas County,19014,nan,nan,nan,nan
+1988,geoId/06063,Plumas County,19316,nan,nan,nan,nan
+1989,geoId/06063,Plumas County,19410,nan,nan,nan,nan
+1990,geoId/06063,Plumas County,19811,nan,9.9,nan,nan
+1991,geoId/06063,Plumas County,20095,nan,11.1,nan,nan
+1992,geoId/06063,Plumas County,20612,nan,14,nan,nan
+1993,geoId/06063,Plumas County,20745,nan,15.2,nan,nan
+1994,geoId/06063,Plumas County,20540,nan,14.5,nan,nan
+1995,geoId/06063,Plumas County,20518,nan,13.2,nan,nan
+1996,geoId/06063,Plumas County,20414,nan,12.3,nan,nan
+1997,geoId/06063,Plumas County,20429,nan,10.6,nan,nan
+1998,geoId/06063,Plumas County,20362,nan,10.3,nan,nan
+1999,geoId/06063,Plumas County,20370,nan,9.1,nan,nan
+2000,geoId/06063,Plumas County,20721,nan,7,nan,nan
+2001,geoId/06063,Plumas County,20790,nan,7.6,nan,nan
+2002,geoId/06063,Plumas County,20847,nan,8.5,nan,nan
+2003,geoId/06063,Plumas County,20948,nan,9.9,nan,nan
+2004,geoId/06063,Plumas County,21001,nan,9.8,nan,nan
+2005,geoId/06063,Plumas County,21015,nan,8.4,nan,nan
+2006,geoId/06063,Plumas County,20765,nan,7.6,nan,nan
+2007,geoId/06063,Plumas County,20674,nan,8.4,nan,nan
+2008,geoId/06063,Plumas County,20423,nan,10.6,nan,nan
+2009,geoId/06063,Plumas County,20180,nan,16,nan,nan
+2010,geoId/06063,Plumas County,19914,nan,18.7,nan,nan
+2011,geoId/06063,Plumas County,19715,49,17.9,44151,nan
+2012,geoId/06063,Plumas County,19374,49.4,16.4,45358,nan
+2013,geoId/06063,Plumas County,18895,49.9,14,45794,nan
+2014,geoId/06063,Plumas County,18662,50.6,11.7,48032,nan
+2015,geoId/06063,Plumas County,18516,51.3,10.3,47333,nan
+2016,geoId/06063,Plumas County,18772,51.7,9.8,50125,nan
+2017,geoId/06063,Plumas County,18740,52.1,8.9,50266,nan
+2018,geoId/06063,Plumas County,18804,52.2,7.6,53270,nan
+2019,geoId/06063,Plumas County,18660,52.3,7.8,55359,nan
+1980,geoId/06065,Riverside County,663199,nan,nan,nan,nan
+1981,geoId/06065,Riverside County,693249,nan,nan,nan,nan
+1982,geoId/06065,Riverside County,719842,nan,nan,nan,nan
+1983,geoId/06065,Riverside County,746898,nan,nan,nan,nan
+1984,geoId/06065,Riverside County,783202,nan,nan,nan,nan
+1985,geoId/06065,Riverside County,825685,nan,nan,nan,nan
+1986,geoId/06065,Riverside County,871209,nan,nan,nan,nan
+1987,geoId/06065,Riverside County,930059,nan,nan,nan,nan
+1988,geoId/06065,Riverside County,995977,nan,nan,nan,nan
+1989,geoId/06065,Riverside County,1084568,nan,nan,nan,nan
+1990,geoId/06065,Riverside County,1193639,nan,7.1,nan,nan
+1991,geoId/06065,Riverside County,1248277,nan,10.2,nan,nan
+1992,geoId/06065,Riverside County,1290328,nan,11.9,nan,nan
+1993,geoId/06065,Riverside County,1321304,nan,12.1,nan,nan
+1994,geoId/06065,Riverside County,1354966,nan,10.7,nan,nan
+1995,geoId/06065,Riverside County,1383646,nan,9.4,nan,nan
+1996,geoId/06065,Riverside County,1406769,nan,8.4,nan,nan
+1997,geoId/06065,Riverside County,1439674,nan,7.6,nan,nan
+1998,geoId/06065,Riverside County,1480708,nan,6.7,nan,nan
+1999,geoId/06065,Riverside County,1530653,nan,5.5,nan,nan
+2000,geoId/06065,Riverside County,1558970,nan,5.3,nan,nan
+2001,geoId/06065,Riverside County,1615888,nan,5.5,nan,nan
+2002,geoId/06065,Riverside County,1685480,nan,6.5,nan,nan
+2003,geoId/06065,Riverside County,1768751,nan,6.6,nan,nan
+2004,geoId/06065,Riverside County,1852230,nan,6,nan,nan
+2005,geoId/06065,Riverside County,1925929,nan,5.3,nan,nan
+2006,geoId/06065,Riverside County,2004506,nan,5,nan,nan
+2007,geoId/06065,Riverside County,2065281,nan,6,nan,nan
+2008,geoId/06065,Riverside County,2097887,nan,8.6,nan,nan
+2009,geoId/06065,Riverside County,2132478,nan,13.6,nan,nan
+2010,geoId/06065,Riverside County,2201652,nan,14.2,nan,nan
+2011,geoId/06065,Riverside County,2234070,33.5,13.4,58365,nan
+2012,geoId/06065,Riverside County,2261204,33.7,11.8,57096,nan
+2013,geoId/06065,Riverside County,2286755,33.9,10,56529,nan
+2014,geoId/06065,Riverside County,2316162,34.2,8.3,56592,nan
+2015,geoId/06065,Riverside County,2345816,34.5,6.7,56603,nan
+2016,geoId/06065,Riverside County,2380081,34.8,6.1,57972,nan
+2017,geoId/06065,Riverside County,2414964,35,5.3,60807,nan
+2018,geoId/06065,Riverside County,2445789,35.3,4.5,63948,nan
+2019,geoId/06065,Riverside County,2470546,35.6,4.2,67005,nan
+1980,geoId/06067,Sacramento County,783381,nan,nan,nan,nan
+1981,geoId/06067,Sacramento County,806297,nan,nan,nan,nan
+1982,geoId/06067,Sacramento County,832148,nan,nan,nan,nan
+1983,geoId/06067,Sacramento County,852626,nan,nan,nan,nan
+1984,geoId/06067,Sacramento County,869581,nan,nan,nan,nan
+1985,geoId/06067,Sacramento County,891113,nan,nan,nan,nan
+1986,geoId/06067,Sacramento County,916044,nan,nan,nan,nan
+1987,geoId/06067,Sacramento County,948523,nan,nan,nan,nan
+1988,geoId/06067,Sacramento County,979279,nan,nan,nan,nan
+1989,geoId/06067,Sacramento County,1008753,nan,nan,nan,nan
+1990,geoId/06067,Sacramento County,1075309,nan,4.6,nan,nan
+1991,geoId/06067,Sacramento County,1103715,nan,6.7,nan,nan
+1992,geoId/06067,Sacramento County,1114853,nan,8.3,nan,nan
+1993,geoId/06067,Sacramento County,1119353,nan,8.4,nan,nan
+1994,geoId/06067,Sacramento County,1119846,nan,7.3,nan,nan
+1995,geoId/06067,Sacramento County,1128394,nan,6.8,nan,nan
+1996,geoId/06067,Sacramento County,1141118,nan,6.3,nan,nan
+1997,geoId/06067,Sacramento County,1152550,nan,5.6,nan,nan
+1998,geoId/06067,Sacramento County,1166699,nan,5,nan,nan
+1999,geoId/06067,Sacramento County,1184586,nan,4.3,nan,nan
+2000,geoId/06067,Sacramento County,1230155,nan,4.3,nan,nan
+2001,geoId/06067,Sacramento County,1266625,nan,4.6,nan,nan
+2002,geoId/06067,Sacramento County,1301503,nan,5.7,nan,nan
+2003,geoId/06067,Sacramento County,1328988,nan,5.9,nan,nan
+2004,geoId/06067,Sacramento County,1349375,nan,5.6,nan,nan
+2005,geoId/06067,Sacramento County,1360918,nan,4.9,nan,nan
+2006,geoId/06067,Sacramento County,1369173,nan,4.7,nan,nan
+2007,geoId/06067,Sacramento County,1380327,nan,5.4,nan,nan
+2008,geoId/06067,Sacramento County,1393084,nan,7.2,nan,nan
+2009,geoId/06067,Sacramento County,1406684,nan,11.5,nan,nan
+2010,geoId/06067,Sacramento County,1421414,nan,12.9,nan,nan
+2011,geoId/06067,Sacramento County,1433730,34.7,12.3,56553,nan
+2012,geoId/06067,Sacramento County,1444852,34.9,10.7,55846,nan
+2013,geoId/06067,Sacramento County,1457341,35.1,9,55064,nan
+2014,geoId/06067,Sacramento County,1474917,35.3,7.4,55615,nan
+2015,geoId/06067,Sacramento County,1493674,35.5,6,55987,nan
+2016,geoId/06067,Sacramento County,1510987,35.7,5.4,57509,nan
+2017,geoId/06067,Sacramento County,1527301,35.9,4.7,60239,nan
+2018,geoId/06067,Sacramento County,1538746,36,3.9,63902,nan
+2019,geoId/06067,Sacramento County,1552058,36.2,3.7,67151,nan
+1980,geoId/06069,San Benito County,25005,nan,nan,nan,nan
+1981,geoId/06069,San Benito County,25905,nan,nan,nan,nan
+1982,geoId/06069,San Benito County,26916,nan,nan,nan,nan
+1983,geoId/06069,San Benito County,27758,nan,nan,nan,nan
+1984,geoId/06069,San Benito County,28959,nan,nan,nan,nan
+1985,geoId/06069,San Benito County,30392,nan,nan,nan,nan
+1986,geoId/06069,San Benito County,31649,nan,nan,nan,nan
+1987,geoId/06069,San Benito County,32952,nan,nan,nan,nan
+1988,geoId/06069,San Benito County,34374,nan,nan,nan,nan
+1989,geoId/06069,San Benito County,36137,nan,nan,nan,nan
+1990,geoId/06069,San Benito County,36828,nan,12.1,nan,nan
+1991,geoId/06069,San Benito County,37305,nan,16.2,nan,nan
+1992,geoId/06069,San Benito County,38283,nan,17.4,nan,nan
+1993,geoId/06069,San Benito County,39443,nan,16.1,nan,nan
+1994,geoId/06069,San Benito County,40728,nan,14.1,nan,nan
+1995,geoId/06069,San Benito County,42267,nan,13.6,nan,nan
+1996,geoId/06069,San Benito County,44089,nan,12,nan,nan
+1997,geoId/06069,San Benito County,46639,nan,11.2,nan,nan
+1998,geoId/06069,San Benito County,48984,nan,10.6,nan,nan
+1999,geoId/06069,San Benito County,51276,nan,8.1,nan,nan
+2000,geoId/06069,San Benito County,53805,nan,5.9,nan,nan
+2001,geoId/06069,San Benito County,54773,nan,6.4,nan,nan
+2002,geoId/06069,San Benito County,55289,nan,9,nan,nan
+2003,geoId/06069,San Benito County,55527,nan,10.1,nan,nan
+2004,geoId/06069,San Benito County,55271,nan,9.6,nan,nan
+2005,geoId/06069,San Benito County,55155,nan,8,nan,nan
+2006,geoId/06069,San Benito County,54706,nan,7.2,nan,nan
+2007,geoId/06069,San Benito County,54737,nan,7.2,nan,nan
+2008,geoId/06069,San Benito County,55012,nan,9.7,nan,nan
+2009,geoId/06069,San Benito County,55256,nan,14.5,nan,nan
+2010,geoId/06069,San Benito County,55517,nan,15.5,nan,nan
+2011,geoId/06069,San Benito County,55977,33.9,14.8,65570,nan
+2012,geoId/06069,San Benito County,56599,34.1,13.3,63939,nan
+2013,geoId/06069,San Benito County,57239,34.5,11.2,66237,nan
+2014,geoId/06069,San Benito County,57825,34.8,9.4,67874,nan
+2015,geoId/06069,San Benito County,58216,35,7.6,71077,nan
+2016,geoId/06069,San Benito County,59225,35.1,6.7,73814,nan
+2017,geoId/06069,San Benito County,60164,35.4,5.8,80760,nan
+2018,geoId/06069,San Benito County,61467,35.5,5.1,81977,nan
+2019,geoId/06069,San Benito County,62808,35.7,5,86958,nan
+1980,geoId/06071,San Bernardino County,895016,nan,nan,nan,nan
+1981,geoId/06071,San Bernardino County,932934,nan,nan,nan,nan
+1982,geoId/06071,San Bernardino County,966760,nan,nan,nan,nan
+1983,geoId/06071,San Bernardino County,996565,nan,nan,nan,nan
+1984,geoId/06071,San Bernardino County,1027817,nan,nan,nan,nan
+1985,geoId/06071,San Bernardino County,1072242,nan,nan,nan,nan
+1986,geoId/06071,San Bernardino County,1124169,nan,nan,nan,nan
+1987,geoId/06071,San Bernardino County,1192197,nan,nan,nan,nan
+1988,geoId/06071,San Bernardino County,1271189,nan,nan,nan,nan
+1989,geoId/06071,San Bernardino County,1352911,nan,nan,nan,nan
+1990,geoId/06071,San Bernardino County,1437012,nan,5.6,nan,nan
+1991,geoId/06071,San Bernardino County,1491021,nan,8.4,nan,nan
+1992,geoId/06071,San Bernardino County,1532114,nan,9.7,nan,nan
+1993,geoId/06071,San Bernardino County,1545508,nan,9.9,nan,nan
+1994,geoId/06071,San Bernardino County,1553732,nan,8.8,nan,nan
+1995,geoId/06071,San Bernardino County,1569793,nan,7.9,nan,nan
+1996,geoId/06071,San Bernardino County,1588541,nan,7.5,nan,nan
+1997,geoId/06071,San Bernardino County,1609221,nan,6.5,nan,nan
+1998,geoId/06071,San Bernardino County,1635967,nan,5.7,nan,nan
+1999,geoId/06071,San Bernardino County,1669934,nan,4.9,nan,nan
+2000,geoId/06071,San Bernardino County,1718577,nan,4.7,nan,nan
+2001,geoId/06071,San Bernardino County,1762813,nan,5.1,nan,nan
+2002,geoId/06071,San Bernardino County,1802816,nan,6.1,nan,nan
+2003,geoId/06071,San Bernardino County,1850188,nan,6.3,nan,nan
+2004,geoId/06071,San Bernardino County,1904201,nan,5.8,nan,nan
+2005,geoId/06071,San Bernardino County,1950108,nan,5.2,nan,nan
+2006,geoId/06071,San Bernardino County,1980965,nan,4.8,nan,nan
+2007,geoId/06071,San Bernardino County,1999489,nan,5.5,nan,nan
+2008,geoId/06071,San Bernardino County,2011389,nan,8.1,nan,nan
+2009,geoId/06071,San Bernardino County,2021873,nan,13.2,nan,nan
+2010,geoId/06071,San Bernardino County,2040910,nan,13.9,nan,nan
+2011,geoId/06071,San Bernardino County,2060827,31.4,13.1,55853,nan
+2012,geoId/06071,San Bernardino County,2073512,31.7,11.6,54750,nan
+2013,geoId/06071,San Bernardino County,2082738,31.9,9.9,54090,nan
+2014,geoId/06071,San Bernardino County,2099181,32.2,8.1,54100,nan
+2015,geoId/06071,San Bernardino County,2115411,32.5,6.5,53433,nan
+2016,geoId/06071,San Bernardino County,2131960,32.7,5.8,54469,nan
+2017,geoId/06071,San Bernardino County,2150945,32.9,5,57156,nan
+2018,geoId/06071,San Bernardino County,2166753,33.1,4.1,60164,nan
+2019,geoId/06071,San Bernardino County,2180085,33.3,3.9,63362,nan
+1980,geoId/06073,San Diego County,1861846,nan,nan,nan,nan
+1981,geoId/06073,San Diego County,1927018,nan,nan,nan,nan
+1982,geoId/06073,San Diego County,1972354,nan,nan,nan,nan
+1983,geoId/06073,San Diego County,2018133,nan,nan,nan,nan
+1984,geoId/06073,San Diego County,2066419,nan,nan,nan,nan
+1985,geoId/06073,San Diego County,2126090,nan,nan,nan,nan
+1986,geoId/06073,San Diego County,2196834,nan,nan,nan,nan
+1987,geoId/06073,San Diego County,2275309,nan,nan,nan,nan
+1988,geoId/06073,San Diego County,2364284,nan,nan,nan,nan
+1989,geoId/06073,San Diego County,2444380,nan,nan,nan,nan
+1990,geoId/06073,San Diego County,2513216,nan,4.6,nan,nan
+1991,geoId/06073,San Diego County,2554271,nan,6.4,nan,nan
+1992,geoId/06073,San Diego County,2601147,nan,7.3,nan,nan
+1993,geoId/06073,San Diego County,2609266,nan,7.8,nan,nan
+1994,geoId/06073,San Diego County,2626939,nan,7.2,nan,nan
+1995,geoId/06073,San Diego County,2641561,nan,6.3,nan,nan
+1996,geoId/06073,San Diego County,2673685,nan,5.4,nan,nan
+1997,geoId/06073,San Diego County,2722060,nan,4.3,nan,nan
+1998,geoId/06073,San Diego County,2766123,nan,3.5,nan,nan
+1999,geoId/06073,San Diego County,2820844,nan,3.1,nan,nan
+2000,geoId/06073,San Diego County,2826314,nan,3.9,nan,nan
+2001,geoId/06073,San Diego County,2863613,nan,4.2,nan,nan
+2002,geoId/06073,San Diego County,2889170,nan,5.2,nan,nan
+2003,geoId/06073,San Diego County,2897883,nan,5.3,nan,nan
+2004,geoId/06073,San Diego County,2908903,nan,4.7,nan,nan
+2005,geoId/06073,San Diego County,2911539,nan,4.3,nan,nan
+2006,geoId/06073,San Diego County,2914385,nan,4,nan,nan
+2007,geoId/06073,San Diego County,2937725,nan,4.5,nan,nan
+2008,geoId/06073,San Diego County,2977368,nan,6.1,nan,nan
+2009,geoId/06073,San Diego County,3010690,nan,9.8,nan,nan
+2010,geoId/06073,San Diego County,3103306,nan,11,nan,nan
+2011,geoId/06073,San Diego County,3137156,34.6,10.5,63857,nan
+2012,geoId/06073,San Diego County,3174335,34.7,9.3,63373,nan
+2013,geoId/06073,San Diego County,3209768,34.8,7.9,62962,nan
+2014,geoId/06073,San Diego County,3248877,34.9,6.5,63996,nan
+2015,geoId/06073,San Diego County,3280850,35.1,5.2,64309,nan
+2016,geoId/06073,San Diego County,3306089,35.3,4.7,66529,nan
+2017,geoId/06073,San Diego County,3321237,35.4,4,70588,nan
+2018,geoId/06073,San Diego County,3333861,35.6,3.4,74855,nan
+2019,geoId/06073,San Diego County,3338330,35.8,3.3,78980,nan
+1980,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1981,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1982,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1983,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1984,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1985,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1986,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1987,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1988,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1989,geoId/06075,San Francisco County,nan,nan,nan,nan,nan
+1990,geoId/06075,San Francisco County,nan,nan,3.8,nan,nan
+1991,geoId/06075,San Francisco County,nan,nan,5.4,nan,nan
+1992,geoId/06075,San Francisco County,nan,nan,6.9,nan,nan
+1993,geoId/06075,San Francisco County,nan,nan,7.1,nan,nan
+1994,geoId/06075,San Francisco County,nan,nan,6.5,nan,nan
+1995,geoId/06075,San Francisco County,nan,nan,6,nan,nan
+1996,geoId/06075,San Francisco County,nan,nan,4.9,nan,nan
+1997,geoId/06075,San Francisco County,nan,nan,4.1,nan,nan
+1998,geoId/06075,San Francisco County,nan,nan,3.7,nan,nan
+1999,geoId/06075,San Francisco County,nan,nan,3.1,nan,nan
+2000,geoId/06075,San Francisco County,nan,nan,3.4,nan,nan
+2001,geoId/06075,San Francisco County,nan,nan,5.1,nan,nan
+2002,geoId/06075,San Francisco County,nan,nan,7,nan,nan
+2003,geoId/06075,San Francisco County,nan,nan,6.8,nan,nan
+2004,geoId/06075,San Francisco County,nan,nan,5.8,nan,nan
+2005,geoId/06075,San Francisco County,nan,nan,5,nan,nan
+2006,geoId/06075,San Francisco County,nan,nan,4.2,nan,nan
+2007,geoId/06075,San Francisco County,nan,nan,4.2,nan,nan
+2008,geoId/06075,San Francisco County,nan,nan,5.3,nan,nan
+2009,geoId/06075,San Francisco County,nan,nan,9.1,nan,nan
+2010,geoId/06075,San Francisco County,805463,nan,9.1,nan,nan
+2011,geoId/06075,San Francisco County,797983,38.4,8.2,72947,nan
+2012,geoId/06075,San Francisco County,807755,38.5,6.9,73802,nan
+2013,geoId/06075,San Francisco County,817501,38.5,5.5,75604,nan
+2014,geoId/06075,San Francisco County,829072,38.6,4.4,78378,nan
+2015,geoId/06075,San Francisco County,840763,38.5,3.7,81294,nan
+2016,geoId/06075,San Francisco County,850282,38.4,3.3,87701,nan
+2017,geoId/06075,San Francisco County,864263,38.3,2.9,96265,nan
+2018,geoId/06075,San Francisco County,870044,38.2,2.4,104552,nan
+2019,geoId/06075,San Francisco County,874961,38.2,2.2,112449,nan
+1980,geoId/06077,San Joaquin County,347342,nan,nan,nan,nan
+1981,geoId/06077,San Joaquin County,361462,nan,nan,nan,nan
+1982,geoId/06077,San Joaquin County,373479,nan,nan,nan,nan
+1983,geoId/06077,San Joaquin County,385721,nan,nan,nan,nan
+1984,geoId/06077,San Joaquin County,398731,nan,nan,nan,nan
+1985,geoId/06077,San Joaquin County,416042,nan,nan,nan,nan
+1986,geoId/06077,San Joaquin County,430786,nan,nan,nan,nan
+1987,geoId/06077,San Joaquin County,445726,nan,nan,nan,nan
+1988,geoId/06077,San Joaquin County,457138,nan,nan,nan,nan
+1989,geoId/06077,San Joaquin County,466863,nan,nan,nan,nan
+1990,geoId/06077,San Joaquin County,484360,nan,9.9,nan,nan
+1991,geoId/06077,San Joaquin County,494221,nan,12.1,nan,nan
+1992,geoId/06077,San Joaquin County,503293,nan,14.2,nan,nan
+1993,geoId/06077,San Joaquin County,509810,nan,14.2,nan,nan
+1994,geoId/06077,San Joaquin County,516797,nan,13,nan,nan
+1995,geoId/06077,San Joaquin County,523653,nan,12.3,nan,nan
+1996,geoId/06077,San Joaquin County,531560,nan,11.5,nan,nan
+1997,geoId/06077,San Joaquin County,539997,nan,10.8,nan,nan
+1998,geoId/06077,San Joaquin County,549684,nan,10.6,nan,nan
+1999,geoId/06077,San Joaquin County,563183,nan,8.9,nan,nan
+2000,geoId/06077,San Joaquin County,568001,nan,6.9,nan,nan
+2001,geoId/06077,San Joaquin County,591445,nan,7.5,nan,nan
+2002,geoId/06077,San Joaquin County,609348,nan,8.9,nan,nan
+2003,geoId/06077,San Joaquin County,627094,nan,9.3,nan,nan
+2004,geoId/06077,San Joaquin County,643228,nan,8.7,nan,nan
+2005,geoId/06077,San Joaquin County,657227,nan,7.9,nan,nan
+2006,geoId/06077,San Joaquin County,662850,nan,7.4,nan,nan
+2007,geoId/06077,San Joaquin County,667988,nan,8,nan,nan
+2008,geoId/06077,San Joaquin County,671405,nan,10.5,nan,nan
+2009,geoId/06077,San Joaquin County,677183,nan,15.5,nan,nan
+2010,geoId/06077,San Joaquin County,687156,nan,16.9,nan,nan
+2011,geoId/06077,San Joaquin County,694354,32.5,16.5,53764,nan
+2012,geoId/06077,San Joaquin County,699593,32.6,14.6,53895,nan
+2013,geoId/06077,San Joaquin County,702046,32.9,12.5,53380,nan
+2014,geoId/06077,San Joaquin County,711579,33.2,10.7,53253,nan
+2015,geoId/06077,San Joaquin County,722271,33.5,8.9,53274,nan
+2016,geoId/06077,San Joaquin County,732809,33.7,8.2,55045,nan
+2017,geoId/06077,San Joaquin County,743296,33.9,7,57813,nan
+2018,geoId/06077,San Joaquin County,752491,34.1,6.1,61145,nan
+2019,geoId/06077,San Joaquin County,762148,34.3,6,64432,nan
+1980,geoId/06079,San Luis Obispo County,155435,nan,nan,nan,nan
+1981,geoId/06079,San Luis Obispo County,161886,nan,nan,nan,nan
+1982,geoId/06079,San Luis Obispo County,166563,nan,nan,nan,nan
+1983,geoId/06079,San Luis Obispo County,171365,nan,nan,nan,nan
+1984,geoId/06079,San Luis Obispo County,177566,nan,nan,nan,nan
+1985,geoId/06079,San Luis Obispo County,185248,nan,nan,nan,nan
+1986,geoId/06079,San Luis Obispo County,192497,nan,nan,nan,nan
+1987,geoId/06079,San Luis Obispo County,199345,nan,nan,nan,nan
+1988,geoId/06079,San Luis Obispo County,204261,nan,nan,nan,nan
+1989,geoId/06079,San Luis Obispo County,213314,nan,nan,nan,nan
+1990,geoId/06079,San Luis Obispo County,218117,nan,4.6,nan,nan
+1991,geoId/06079,San Luis Obispo County,219091,nan,6.1,nan,nan
+1992,geoId/06079,San Luis Obispo County,220353,nan,7.5,nan,nan
+1993,geoId/06079,San Luis Obispo County,221030,nan,8.2,nan,nan
+1994,geoId/06079,San Luis Obispo County,223264,nan,7.3,nan,nan
+1995,geoId/06079,San Luis Obispo County,225664,nan,6.6,nan,nan
+1996,geoId/06079,San Luis Obispo County,228546,nan,5.7,nan,nan
+1997,geoId/06079,San Luis Obispo County,231426,nan,4.8,nan,nan
+1998,geoId/06079,San Luis Obispo County,234074,nan,4.2,nan,nan
+1999,geoId/06079,San Luis Obispo County,236953,nan,3.3,nan,nan
+2000,geoId/06079,San Luis Obispo County,247931,nan,4,nan,nan
+2001,geoId/06079,San Luis Obispo County,251679,nan,4,nan,nan
+2002,geoId/06079,San Luis Obispo County,253333,nan,4.7,nan,nan
+2003,geoId/06079,San Luis Obispo County,254915,nan,4.8,nan,nan
+2004,geoId/06079,San Luis Obispo County,256916,nan,4.6,nan,nan
+2005,geoId/06079,San Luis Obispo County,258660,nan,4.3,nan,nan
+2006,geoId/06079,San Luis Obispo County,260551,nan,3.9,nan,nan
+2007,geoId/06079,San Luis Obispo County,262810,nan,4.2,nan,nan
+2008,geoId/06079,San Luis Obispo County,266262,nan,5.8,nan,nan
+2009,geoId/06079,San Luis Obispo County,267894,nan,9.2,nan,nan
+2010,geoId/06079,San Luis Obispo County,269805,nan,10.2,nan,nan
+2011,geoId/06079,San Luis Obispo County,271058,39.1,9.7,58630,nan
+2012,geoId/06079,San Luis Obispo County,274160,39.3,8.4,59628,nan
+2013,geoId/06079,San Luis Obispo County,275696,39.5,6.9,58697,nan
+2014,geoId/06079,San Luis Obispo County,278227,39.5,5.6,59454,nan
+2015,geoId/06079,San Luis Obispo County,280077,39.3,4.8,60691,nan
+2016,geoId/06079,San Luis Obispo County,281803,39,4.3,64014,nan
+2017,geoId/06079,San Luis Obispo County,282481,39,3.6,67175,nan
+2018,geoId/06079,San Luis Obispo County,283354,39.1,3,70699,nan
+2019,geoId/06079,San Luis Obispo County,283111,39.2,2.9,73518,nan
+1980,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1981,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1982,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1983,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1984,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1985,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1986,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1987,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1988,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1989,geoId/06081,San Mateo County,nan,nan,nan,nan,nan
+1990,geoId/06081,San Mateo County,nan,nan,2.6,nan,nan
+1991,geoId/06081,San Mateo County,nan,nan,4,nan,nan
+1992,geoId/06081,San Mateo County,nan,nan,5.1,nan,nan
+1993,geoId/06081,San Mateo County,nan,nan,5.1,nan,nan
+1994,geoId/06081,San Mateo County,nan,nan,4.7,nan,nan
+1995,geoId/06081,San Mateo County,nan,nan,4.2,nan,nan
+1996,geoId/06081,San Mateo County,nan,nan,3.5,nan,nan
+1997,geoId/06081,San Mateo County,nan,nan,2.7,nan,nan
+1998,geoId/06081,San Mateo County,nan,nan,2.5,nan,nan
+1999,geoId/06081,San Mateo County,nan,nan,2,nan,nan
+2000,geoId/06081,San Mateo County,nan,nan,2.8,nan,nan
+2001,geoId/06081,San Mateo County,nan,nan,3.8,nan,nan
+2002,geoId/06081,San Mateo County,nan,nan,5.7,nan,nan
+2003,geoId/06081,San Mateo County,nan,nan,5.9,nan,nan
+2004,geoId/06081,San Mateo County,nan,nan,4.9,nan,nan
+2005,geoId/06081,San Mateo County,nan,nan,4.2,nan,nan
+2006,geoId/06081,San Mateo County,nan,nan,3.7,nan,nan
+2007,geoId/06081,San Mateo County,nan,nan,3.8,nan,nan
+2008,geoId/06081,San Mateo County,nan,nan,4.9,nan,nan
+2009,geoId/06081,San Mateo County,nan,nan,8.6,nan,nan
+2010,geoId/06081,San Mateo County,720162,nan,8.6,nan,nan
+2011,geoId/06081,San Mateo County,711622,39.2,7.7,87633,nan
+2012,geoId/06081,San Mateo County,721183,39.3,6.5,87751,nan
+2013,geoId/06081,San Mateo County,729543,39.3,5.3,88202,nan
+2014,geoId/06081,San Mateo County,739837,39.4,4.3,91421,nan
+2015,geoId/06081,San Mateo County,748731,39.5,3.4,93623,nan
+2016,geoId/06081,San Mateo County,754748,39.5,3.1,98546,nan
+2017,geoId/06081,San Mateo County,763450,39.6,2.7,105667,nan
+2018,geoId/06081,San Mateo County,765935,39.6,2.3,113776,nan
+2019,geoId/06081,San Mateo County,767423,39.7,2.1,122641,nan
+1980,geoId/06083,Santa Barbara County,298694,nan,nan,nan,nan
+1981,geoId/06083,Santa Barbara County,305588,nan,nan,nan,nan
+1982,geoId/06083,Santa Barbara County,313073,nan,nan,nan,nan
+1983,geoId/06083,Santa Barbara County,322294,nan,nan,nan,nan
+1984,geoId/06083,Santa Barbara County,329133,nan,nan,nan,nan
+1985,geoId/06083,Santa Barbara County,338569,nan,nan,nan,nan
+1986,geoId/06083,Santa Barbara County,345651,nan,nan,nan,nan
+1987,geoId/06083,Santa Barbara County,352021,nan,nan,nan,nan
+1988,geoId/06083,Santa Barbara County,355810,nan,nan,nan,nan
+1989,geoId/06083,Santa Barbara County,365695,nan,nan,nan,nan
+1990,geoId/06083,Santa Barbara County,370420,nan,4.9,nan,nan
+1991,geoId/06083,Santa Barbara County,374051,nan,6,nan,nan
+1992,geoId/06083,Santa Barbara County,376523,nan,7.5,nan,nan
+1993,geoId/06083,Santa Barbara County,378009,nan,7.8,nan,nan
+1994,geoId/06083,Santa Barbara County,381528,nan,7.3,nan,nan
+1995,geoId/06083,Santa Barbara County,381289,nan,6.7,nan,nan
+1996,geoId/06083,Santa Barbara County,382215,nan,5.9,nan,nan
+1997,geoId/06083,Santa Barbara County,386789,nan,5.1,nan,nan
+1998,geoId/06083,Santa Barbara County,389472,nan,4.4,nan,nan
+1999,geoId/06083,Santa Barbara County,391071,nan,3.9,nan,nan
+2000,geoId/06083,Santa Barbara County,399742,nan,4.3,nan,nan
+2001,geoId/06083,Santa Barbara County,401683,nan,4.4,nan,nan
+2002,geoId/06083,Santa Barbara County,402446,nan,5.2,nan,nan
+2003,geoId/06083,Santa Barbara County,402781,nan,5.1,nan,nan
+2004,geoId/06083,Santa Barbara County,401992,nan,4.7,nan,nan
+2005,geoId/06083,Santa Barbara County,401419,nan,4.3,nan,nan
+2006,geoId/06083,Santa Barbara County,400054,nan,4,nan,nan
+2007,geoId/06083,Santa Barbara County,401809,nan,4.3,nan,nan
+2008,geoId/06083,Santa Barbara County,404949,nan,5.5,nan,nan
+2009,geoId/06083,Santa Barbara County,407875,nan,8.6,nan,nan
+2010,geoId/06083,Santa Barbara County,424235,nan,9.9,nan,nan
+2011,geoId/06083,Santa Barbara County,425453,33.4,9.5,61896,nan
+2012,geoId/06083,Santa Barbara County,429699,33.6,8.5,62723,nan
+2013,geoId/06083,Santa Barbara County,434601,33.5,7.3,62779,nan
+2014,geoId/06083,Santa Barbara County,439045,33.6,6.2,63409,nan
+2015,geoId/06083,Santa Barbara County,442229,33.6,5.3,63985,nan
+2016,geoId/06083,Santa Barbara County,444340,33.7,5.1,65161,nan
+2017,geoId/06083,Santa Barbara County,445298,33.7,4.6,68023,nan
+2018,geoId/06083,Santa Barbara County,445780,33.7,4,71657,nan
+2019,geoId/06083,Santa Barbara County,446499,33.8,3.7,74624,nan
+1980,geoId/06085,Santa Clara County,1295071,nan,nan,nan,nan
+1981,geoId/06085,Santa Clara County,1324722,nan,nan,nan,nan
+1982,geoId/06085,Santa Clara County,1345039,nan,nan,nan,nan
+1983,geoId/06085,Santa Clara County,1374018,nan,nan,nan,nan
+1984,geoId/06085,Santa Clara County,1396226,nan,nan,nan,nan
+1985,geoId/06085,Santa Clara County,1419520,nan,nan,nan,nan
+1986,geoId/06085,Santa Clara County,1429933,nan,nan,nan,nan
+1987,geoId/06085,Santa Clara County,1447591,nan,nan,nan,nan
+1988,geoId/06085,Santa Clara County,1472234,nan,nan,nan,nan
+1989,geoId/06085,Santa Clara County,1498121,nan,nan,nan,nan
+1990,geoId/06085,Santa Clara County,1497644,nan,4,nan,nan
+1991,geoId/06085,Santa Clara County,1508020,nan,5.8,nan,nan
+1992,geoId/06085,Santa Clara County,1523971,nan,6.9,nan,nan
+1993,geoId/06085,Santa Clara County,1539465,nan,7,nan,nan
+1994,geoId/06085,Santa Clara County,1550060,nan,6.4,nan,nan
+1995,geoId/06085,Santa Clara County,1566760,nan,4.9,nan,nan
+1996,geoId/06085,Santa Clara County,1593625,nan,3.7,nan,nan
+1997,geoId/06085,Santa Clara County,1621660,nan,3.1,nan,nan
+1998,geoId/06085,Santa Clara County,1641848,nan,3.2,nan,nan
+1999,geoId/06085,Santa Clara County,1647419,nan,3.1,nan,nan
+2000,geoId/06085,Santa Clara County,1685849,nan,3.1,nan,nan
+2001,geoId/06085,Santa Clara County,1691870,nan,5.1,nan,nan
+2002,geoId/06085,Santa Clara County,1676124,nan,8.4,nan,nan
+2003,geoId/06085,Santa Clara County,1673249,nan,8.4,nan,nan
+2004,geoId/06085,Santa Clara County,1675682,nan,6.4,nan,nan
+2005,geoId/06085,Santa Clara County,1690650,nan,5.3,nan,nan
+2006,geoId/06085,Santa Clara County,1709120,nan,4.5,nan,nan
+2007,geoId/06085,Santa Clara County,1732945,nan,4.6,nan,nan
+2008,geoId/06085,Santa Clara County,1764839,nan,6,nan,nan
+2009,geoId/06085,Santa Clara County,1791862,nan,11,nan,nan
+2010,geoId/06085,Santa Clara County,1786079,nan,10.7,nan,nan
+2011,geoId/06085,Santa Clara County,1812054,36,9.5,89064,nan
+2012,geoId/06085,Santa Clara County,1837853,36.2,8,90747,nan
+2013,geoId/06085,Santa Clara County,1866425,36.4,6.6,91702,nan
+2014,geoId/06085,Santa Clara County,1891753,36.6,5.2,93854,nan
+2015,geoId/06085,Santa Clara County,1916285,36.8,4.2,96310,nan
+2016,geoId/06085,Santa Clara County,1928368,36.8,3.8,101173,nan
+2017,geoId/06085,Santa Clara County,1932510,37,3.2,106761,nan
+2018,geoId/06085,Santa Clara County,1932337,37,2.7,116178,nan
+2019,geoId/06085,Santa Clara County,1927852,37.1,2.5,124055,nan
+1980,geoId/06087,Santa Cruz County,188141,nan,nan,nan,nan
+1981,geoId/06087,Santa Cruz County,193590,nan,nan,nan,nan
+1982,geoId/06087,Santa Cruz County,197353,nan,nan,nan,nan
+1983,geoId/06087,Santa Cruz County,201921,nan,nan,nan,nan
+1984,geoId/06087,Santa Cruz County,205964,nan,nan,nan,nan
+1985,geoId/06087,Santa Cruz County,212143,nan,nan,nan,nan
+1986,geoId/06087,Santa Cruz County,216661,nan,nan,nan,nan
+1987,geoId/06087,Santa Cruz County,221202,nan,nan,nan,nan
+1988,geoId/06087,Santa Cruz County,225700,nan,nan,nan,nan
+1989,geoId/06087,Santa Cruz County,231463,nan,nan,nan,nan
+1990,geoId/06087,Santa Cruz County,229385,nan,7.2,nan,nan
+1991,geoId/06087,Santa Cruz County,228984,nan,9,nan,nan
+1992,geoId/06087,Santa Cruz County,230983,nan,9.7,nan,nan
+1993,geoId/06087,Santa Cruz County,232600,nan,10.5,nan,nan
+1994,geoId/06087,Santa Cruz County,234059,nan,9.9,nan,nan
+1995,geoId/06087,Santa Cruz County,234717,nan,9.3,nan,nan
+1996,geoId/06087,Santa Cruz County,235633,nan,8.6,nan,nan
+1997,geoId/06087,Santa Cruz County,238862,nan,7.9,nan,nan
+1998,geoId/06087,Santa Cruz County,243200,nan,7.3,nan,nan
+1999,geoId/06087,Santa Cruz County,245201,nan,6.4,nan,nan
+2000,geoId/06087,Santa Cruz County,255812,nan,5.1,nan,nan
+2001,geoId/06087,Santa Cruz County,255816,nan,5.8,nan,nan
+2002,geoId/06087,Santa Cruz County,254061,nan,7.4,nan,nan
+2003,geoId/06087,Santa Cruz County,252254,nan,7.8,nan,nan
+2004,geoId/06087,Santa Cruz County,251253,nan,7,nan,nan
+2005,geoId/06087,Santa Cruz County,249988,nan,6.3,nan,nan
+2006,geoId/06087,Santa Cruz County,249860,nan,5.6,nan,nan
+2007,geoId/06087,Santa Cruz County,251151,nan,5.8,nan,nan
+2008,geoId/06087,Santa Cruz County,253950,nan,7.4,nan,nan
+2009,geoId/06087,Santa Cruz County,256954,nan,11.5,nan,nan
+2010,geoId/06087,Santa Cruz County,263167,nan,13.6,nan,nan
+2011,geoId/06087,Santa Cruz County,264858,36.7,13.3,66030,nan
+2012,geoId/06087,Santa Cruz County,266340,36.9,12,66571,nan
+2013,geoId/06087,Santa Cruz County,268816,36.9,10.4,66519,nan
+2014,geoId/06087,Santa Cruz County,270861,36.9,8.9,66923,nan
+2015,geoId/06087,Santa Cruz County,273503,37,7.5,67256,nan
+2016,geoId/06087,Santa Cruz County,274396,37,7,70088,nan
+2017,geoId/06087,Santa Cruz County,274856,37.3,5.7,73663,nan
+2018,geoId/06087,Santa Cruz County,273841,37.4,5,78041,nan
+2019,geoId/06087,Santa Cruz County,273213,37.8,5,82234,nan
+1980,geoId/06089,Shasta County,115613,nan,nan,nan,nan
+1981,geoId/06089,Shasta County,120270,nan,nan,nan,nan
+1982,geoId/06089,Shasta County,121513,nan,nan,nan,nan
+1983,geoId/06089,Shasta County,122807,nan,nan,nan,nan
+1984,geoId/06089,Shasta County,125322,nan,nan,nan,nan
+1985,geoId/06089,Shasta County,128461,nan,nan,nan,nan
+1986,geoId/06089,Shasta County,130119,nan,nan,nan,nan
+1987,geoId/06089,Shasta County,132958,nan,nan,nan,nan
+1988,geoId/06089,Shasta County,136627,nan,nan,nan,nan
+1989,geoId/06089,Shasta County,140997,nan,nan,nan,nan
+1990,geoId/06089,Shasta County,148660,nan,8.6,nan,nan
+1991,geoId/06089,Shasta County,154034,nan,11,nan,nan
+1992,geoId/06089,Shasta County,157319,nan,13.2,nan,nan
+1993,geoId/06089,Shasta County,158520,nan,12.6,nan,nan
+1994,geoId/06089,Shasta County,159684,nan,12.2,nan,nan
+1995,geoId/06089,Shasta County,160510,nan,11.3,nan,nan
+1996,geoId/06089,Shasta County,161327,nan,10.1,nan,nan
+1997,geoId/06089,Shasta County,162603,nan,9.3,nan,nan
+1998,geoId/06089,Shasta County,164156,nan,9.1,nan,nan
+1999,geoId/06089,Shasta County,164530,nan,7.1,nan,nan
+2000,geoId/06089,Shasta County,163771,nan,6,nan,nan
+2001,geoId/06089,Shasta County,167110,nan,6.4,nan,nan
+2002,geoId/06089,Shasta County,171439,nan,7.2,nan,nan
+2003,geoId/06089,Shasta County,174966,nan,7.6,nan,nan
+2004,geoId/06089,Shasta County,177142,nan,7.6,nan,nan
+2005,geoId/06089,Shasta County,178367,nan,7.2,nan,nan
+2006,geoId/06089,Shasta County,179363,nan,6.6,nan,nan
+2007,geoId/06089,Shasta County,180207,nan,7.4,nan,nan
+2008,geoId/06089,Shasta County,181354,nan,10.1,nan,nan
+2009,geoId/06089,Shasta County,181801,nan,14.9,nan,nan
+2010,geoId/06089,Shasta County,177277,nan,17.2,nan,nan
+2011,geoId/06089,Shasta County,177588,41.6,16.2,44058,nan
+2012,geoId/06089,Shasta County,177875,41.9,14.4,44396,nan
+2013,geoId/06089,Shasta County,178397,42.1,12,44651,nan
+2014,geoId/06089,Shasta County,178844,41.9,9.7,44556,nan
+2015,geoId/06089,Shasta County,178314,42.2,7.8,44620,nan
+2016,geoId/06089,Shasta County,178571,42.3,7,45582,nan
+2017,geoId/06089,Shasta County,179384,41.8,5.8,47258,nan
+2018,geoId/06089,Shasta County,179709,41.8,5,50905,nan
+2019,geoId/06089,Shasta County,180080,41.5,4.8,54667,nan
+1980,geoId/06091,Sierra County,3073,nan,nan,nan,nan
+1981,geoId/06091,Sierra County,3083,nan,nan,nan,nan
+1982,geoId/06091,Sierra County,3276,nan,nan,nan,nan
+1983,geoId/06091,Sierra County,3292,nan,nan,nan,nan
+1984,geoId/06091,Sierra County,3273,nan,nan,nan,nan
+1985,geoId/06091,Sierra County,3270,nan,nan,nan,nan
+1986,geoId/06091,Sierra County,3237,nan,nan,nan,nan
+1987,geoId/06091,Sierra County,3251,nan,nan,nan,nan
+1988,geoId/06091,Sierra County,3328,nan,nan,nan,nan
+1989,geoId/06091,Sierra County,3310,nan,nan,nan,nan
+1990,geoId/06091,Sierra County,3320,nan,10.9,nan,nan
+1991,geoId/06091,Sierra County,3318,nan,10.9,nan,nan
+1992,geoId/06091,Sierra County,3288,nan,11.2,nan,nan
+1993,geoId/06091,Sierra County,3344,nan,11.1,nan,nan
+1994,geoId/06091,Sierra County,3329,nan,10.2,nan,nan
+1995,geoId/06091,Sierra County,3380,nan,9.6,nan,nan
+1996,geoId/06091,Sierra County,3396,nan,11.4,nan,nan
+1997,geoId/06091,Sierra County,3369,nan,10.5,nan,nan
+1998,geoId/06091,Sierra County,3376,nan,11.8,nan,nan
+1999,geoId/06091,Sierra County,3334,nan,9.2,nan,nan
+2000,geoId/06091,Sierra County,3551,nan,5.8,nan,nan
+2001,geoId/06091,Sierra County,3494,nan,7.6,nan,nan
+2002,geoId/06091,Sierra County,3453,nan,8.8,nan,nan
+2003,geoId/06091,Sierra County,3479,nan,9.5,nan,nan
+2004,geoId/06091,Sierra County,3396,nan,9.7,nan,nan
+2005,geoId/06091,Sierra County,3339,nan,8.3,nan,nan
+2006,geoId/06091,Sierra County,3378,nan,7.4,nan,nan
+2007,geoId/06091,Sierra County,3323,nan,7.8,nan,nan
+2008,geoId/06091,Sierra County,3266,nan,10.6,nan,nan
+2009,geoId/06091,Sierra County,3191,nan,15.5,nan,nan
+2010,geoId/06091,Sierra County,3221,nan,15.7,nan,nan
+2011,geoId/06091,Sierra County,3099,51.5,15.1,50308,nan
+2012,geoId/06091,Sierra County,3067,51.6,14.6,42500,nan
+2013,geoId/06091,Sierra County,3029,51.3,12.9,39009,nan
+2014,geoId/06091,Sierra County,2980,53.5,10.2,43107,nan
+2015,geoId/06091,Sierra County,2996,54.5,8.8,42833,nan
+2016,geoId/06091,Sierra County,2957,55.2,7.6,43984,nan
+2017,geoId/06091,Sierra County,3009,55,6.6,44190,nan
+2018,geoId/06091,Sierra County,2987,55.5,6.1,48125,nan
+2019,geoId/06091,Sierra County,3040,54.8,5.4,52148,nan
+1980,geoId/06093,Siskiyou County,39732,nan,nan,nan,nan
+1981,geoId/06093,Siskiyou County,40757,nan,nan,nan,nan
+1982,geoId/06093,Siskiyou County,41279,nan,nan,nan,nan
+1983,geoId/06093,Siskiyou County,41212,nan,nan,nan,nan
+1984,geoId/06093,Siskiyou County,41267,nan,nan,nan,nan
+1985,geoId/06093,Siskiyou County,41586,nan,nan,nan,nan
+1986,geoId/06093,Siskiyou County,41178,nan,nan,nan,nan
+1987,geoId/06093,Siskiyou County,41403,nan,nan,nan,nan
+1988,geoId/06093,Siskiyou County,42026,nan,nan,nan,nan
+1989,geoId/06093,Siskiyou County,42851,nan,nan,nan,nan
+1990,geoId/06093,Siskiyou County,43713,nan,12.2,nan,nan
+1991,geoId/06093,Siskiyou County,43917,nan,13.3,nan,nan
+1992,geoId/06093,Siskiyou County,44056,nan,15.8,nan,nan
+1993,geoId/06093,Siskiyou County,43804,nan,15.6,nan,nan
+1994,geoId/06093,Siskiyou County,43972,nan,14.1,nan,nan
+1995,geoId/06093,Siskiyou County,44221,nan,14.3,nan,nan
+1996,geoId/06093,Siskiyou County,44058,nan,13.8,nan,nan
+1997,geoId/06093,Siskiyou County,44264,nan,12.2,nan,nan
+1998,geoId/06093,Siskiyou County,44024,nan,12.6,nan,nan
+1999,geoId/06093,Siskiyou County,43570,nan,10.4,nan,nan
+2000,geoId/06093,Siskiyou County,44194,nan,7.4,nan,nan
+2001,geoId/06093,Siskiyou County,43893,nan,8.1,nan,nan
+2002,geoId/06093,Siskiyou County,43957,nan,9,nan,nan
+2003,geoId/06093,Siskiyou County,44281,nan,9.6,nan,nan
+2004,geoId/06093,Siskiyou County,44382,nan,9.5,nan,nan
+2005,geoId/06093,Siskiyou County,44622,nan,9,nan,nan
+2006,geoId/06093,Siskiyou County,44449,nan,8,nan,nan
+2007,geoId/06093,Siskiyou County,44414,nan,8.4,nan,nan
+2008,geoId/06093,Siskiyou County,44723,nan,10.2,nan,nan
+2009,geoId/06093,Siskiyou County,44710,nan,14.8,nan,nan
+2010,geoId/06093,Siskiyou County,44938,nan,17.2,nan,nan
+2011,geoId/06093,Siskiyou County,44610,46.9,17.3,37865,nan
+2012,geoId/06093,Siskiyou County,44073,47,15.9,37948,nan
+2013,geoId/06093,Siskiyou County,43532,47.1,13.3,37709,nan
+2014,geoId/06093,Siskiyou County,43379,47.3,11.2,37495,nan
+2015,geoId/06093,Siskiyou County,43336,47.8,9.4,37170,nan
+2016,geoId/06093,Siskiyou County,43479,47.9,8.5,38524,nan
+2017,geoId/06093,Siskiyou County,43784,47.9,7.3,40884,nan
+2018,geoId/06093,Siskiyou County,43724,48,6.8,44200,nan
+2019,geoId/06093,Siskiyou County,43468,47.8,6.6,45241,nan
+1980,geoId/06095,Solano County,235203,nan,nan,nan,nan
+1981,geoId/06095,Solano County,246003,nan,nan,nan,nan
+1982,geoId/06095,Solano County,254348,nan,nan,nan,nan
+1983,geoId/06095,Solano County,260386,nan,nan,nan,nan
+1984,geoId/06095,Solano County,264416,nan,nan,nan,nan
+1985,geoId/06095,Solano County,271634,nan,nan,nan,nan
+1986,geoId/06095,Solano County,283617,nan,nan,nan,nan
+1987,geoId/06095,Solano County,296835,nan,nan,nan,nan
+1988,geoId/06095,Solano County,310048,nan,nan,nan,nan
+1989,geoId/06095,Solano County,326074,nan,nan,nan,nan
+1990,geoId/06095,Solano County,343460,nan,4.8,nan,nan
+1991,geoId/06095,Solano County,354889,nan,6.3,nan,nan
+1992,geoId/06095,Solano County,359849,nan,7.4,nan,nan
+1993,geoId/06095,Solano County,364148,nan,8.2,nan,nan
+1994,geoId/06095,Solano County,365383,nan,7.7,nan,nan
+1995,geoId/06095,Solano County,364191,nan,7.9,nan,nan
+1996,geoId/06095,Solano County,366408,nan,7.8,nan,nan
+1997,geoId/06095,Solano County,371063,nan,6.6,nan,nan
+1998,geoId/06095,Solano County,376748,nan,5.6,nan,nan
+1999,geoId/06095,Solano County,385723,nan,4.6,nan,nan
+2000,geoId/06095,Solano County,397001,nan,4.6,nan,nan
+2001,geoId/06095,Solano County,404122,nan,4.6,nan,nan
+2002,geoId/06095,Solano County,407967,nan,5.8,nan,nan
+2003,geoId/06095,Solano County,407937,nan,6.4,nan,nan
+2004,geoId/06095,Solano County,408600,nan,5.8,nan,nan
+2005,geoId/06095,Solano County,407162,nan,5.3,nan,nan
+2006,geoId/06095,Solano County,407006,nan,4.9,nan,nan
+2007,geoId/06095,Solano County,406545,nan,5.2,nan,nan
+2008,geoId/06095,Solano County,406884,nan,6.9,nan,nan
+2009,geoId/06095,Solano County,407704,nan,10.8,nan,nan
+2010,geoId/06095,Solano County,413944,nan,12.8,nan,nan
+2011,geoId/06095,Solano County,416342,36.7,12.4,69914,nan
+2012,geoId/06095,Solano County,419674,37,10.9,69006,nan
+2013,geoId/06095,Solano County,423659,37.1,9.2,67177,nan
+2014,geoId/06095,Solano County,429006,37.2,7.6,67341,nan
+2015,geoId/06095,Solano County,433409,37.3,6.2,66828,nan
+2016,geoId/06095,Solano County,438858,37.5,5.5,69227,nan
+2017,geoId/06095,Solano County,443511,37.7,4.8,72950,nan
+2018,geoId/06095,Solano County,445725,37.9,4,77609,nan
+2019,geoId/06095,Solano County,447643,38.1,3.8,81472,nan
+1980,geoId/06097,Sonoma County,299681,nan,nan,nan,nan
+1981,geoId/06097,Sonoma County,308609,nan,nan,nan,nan
+1982,geoId/06097,Sonoma County,314636,nan,nan,nan,nan
+1983,geoId/06097,Sonoma County,321580,nan,nan,nan,nan
+1984,geoId/06097,Sonoma County,326863,nan,nan,nan,nan
+1985,geoId/06097,Sonoma County,335355,nan,nan,nan,nan
+1986,geoId/06097,Sonoma County,345270,nan,nan,nan,nan
+1987,geoId/06097,Sonoma County,356111,nan,nan,nan,nan
+1988,geoId/06097,Sonoma County,367893,nan,nan,nan,nan
+1989,geoId/06097,Sonoma County,380633,nan,nan,nan,nan
+1990,geoId/06097,Sonoma County,390152,nan,3.9,nan,nan
+1991,geoId/06097,Sonoma County,396592,nan,5.6,nan,nan
+1992,geoId/06097,Sonoma County,402387,nan,7.1,nan,nan
+1993,geoId/06097,Sonoma County,406467,nan,6.6,nan,nan
+1994,geoId/06097,Sonoma County,410123,nan,5.9,nan,nan
+1995,geoId/06097,Sonoma County,414688,nan,5.5,nan,nan
+1996,geoId/06097,Sonoma County,419268,nan,4.5,nan,nan
+1997,geoId/06097,Sonoma County,426438,nan,3.8,nan,nan
+1998,geoId/06097,Sonoma County,433777,nan,3.3,nan,nan
+1999,geoId/06097,Sonoma County,439970,nan,2.7,nan,nan
+2000,geoId/06097,Sonoma County,460364,nan,3.3,nan,nan
+2001,geoId/06097,Sonoma County,464770,nan,3.7,nan,nan
+2002,geoId/06097,Sonoma County,464268,nan,5.1,nan,nan
+2003,geoId/06097,Sonoma County,464912,nan,5.5,nan,nan
+2004,geoId/06097,Sonoma County,464704,nan,5,nan,nan
+2005,geoId/06097,Sonoma County,463210,nan,4.4,nan,nan
+2006,geoId/06097,Sonoma County,461796,nan,4,nan,nan
+2007,geoId/06097,Sonoma County,463324,nan,4.3,nan,nan
+2008,geoId/06097,Sonoma County,468191,nan,5.8,nan,nan
+2009,geoId/06097,Sonoma County,473702,nan,9.8,nan,nan
+2010,geoId/06097,Sonoma County,484776,nan,11.1,nan,nan
+2011,geoId/06097,Sonoma County,487421,39.7,10.4,64343,nan
+2012,geoId/06097,Sonoma County,489993,39.8,9,63565,nan
+2013,geoId/06097,Sonoma County,494073,40.2,7.2,63356,nan
+2014,geoId/06097,Sonoma County,498560,40.5,5.7,63799,nan
+2015,geoId/06097,Sonoma County,500863,40.8,4.5,64240,nan
+2016,geoId/06097,Sonoma County,502547,41.2,4,66833,nan
+2017,geoId/06097,Sonoma County,502469,41.4,3.4,71769,nan
+2018,geoId/06097,Sonoma County,498643,41.7,2.8,76753,nan
+2019,geoId/06097,Sonoma County,494336,42.1,2.7,81018,nan
+1980,geoId/06099,Stanislaus County,265900,nan,nan,nan,nan
+1981,geoId/06099,Stanislaus County,275137,nan,nan,nan,nan
+1982,geoId/06099,Stanislaus County,280737,nan,nan,nan,nan
+1983,geoId/06099,Stanislaus County,288504,nan,nan,nan,nan
+1984,geoId/06099,Stanislaus County,293879,nan,nan,nan,nan
+1985,geoId/06099,Stanislaus County,301285,nan,nan,nan,nan
+1986,geoId/06099,Stanislaus County,311154,nan,nan,nan,nan
+1987,geoId/06099,Stanislaus County,323380,nan,nan,nan,nan
+1988,geoId/06099,Stanislaus County,336063,nan,nan,nan,nan
+1989,geoId/06099,Stanislaus County,353017,nan,nan,nan,nan
+1990,geoId/06099,Stanislaus County,375259,nan,11.8,nan,nan
+1991,geoId/06099,Stanislaus County,385831,nan,14.9,nan,nan
+1992,geoId/06099,Stanislaus County,394159,nan,16.6,nan,nan
+1993,geoId/06099,Stanislaus County,400923,nan,16.9,nan,nan
+1994,geoId/06099,Stanislaus County,405152,nan,16,nan,nan
+1995,geoId/06099,Stanislaus County,408919,nan,15.4,nan,nan
+1996,geoId/06099,Stanislaus County,413484,nan,14.5,nan,nan
+1997,geoId/06099,Stanislaus County,419446,nan,13.3,nan,nan
+1998,geoId/06099,Stanislaus County,426872,nan,12.3,nan,nan
+1999,geoId/06099,Stanislaus County,436790,nan,10.7,nan,nan
+2000,geoId/06099,Stanislaus County,449536,nan,7.7,nan,nan
+2001,geoId/06099,Stanislaus County,463908,nan,8.4,nan,nan
+2002,geoId/06099,Stanislaus County,477664,nan,9.7,nan,nan
+2003,geoId/06099,Stanislaus County,487556,nan,10,nan,nan
+2004,geoId/06099,Stanislaus County,492805,nan,9.2,nan,nan
+2005,geoId/06099,Stanislaus County,500164,nan,8.4,nan,nan
+2006,geoId/06099,Stanislaus County,504651,nan,7.9,nan,nan
+2007,geoId/06099,Stanislaus County,507746,nan,8.6,nan,nan
+2008,geoId/06099,Stanislaus County,508793,nan,11.1,nan,nan
+2009,geoId/06099,Stanislaus County,511105,nan,16.1,nan,nan
+2010,geoId/06099,Stanislaus County,515165,nan,17.3,nan,nan
+2011,geoId/06099,Stanislaus County,517560,32.6,16.8,50671,nan
+2012,geoId/06099,Stanislaus County,520424,32.8,15.1,49866,nan
+2013,geoId/06099,Stanislaus County,523451,33,13.1,49297,nan
+2014,geoId/06099,Stanislaus County,528015,33.3,11.3,49573,nan
+2015,geoId/06099,Stanislaus County,533211,33.5,9.6,50125,nan
+2016,geoId/06099,Stanislaus County,539255,33.8,8.6,51591,nan
+2017,geoId/06099,Stanislaus County,544717,33.9,7.5,54260,nan
+2018,geoId/06099,Stanislaus County,548126,34,6.5,57387,nan
+2019,geoId/06099,Stanislaus County,550660,34.1,6.2,60704,nan
+1980,geoId/06101,Sutter County,52246,nan,nan,nan,nan
+1981,geoId/06101,Sutter County,53818,nan,nan,nan,nan
+1982,geoId/06101,Sutter County,55230,nan,nan,nan,nan
+1983,geoId/06101,Sutter County,56762,nan,nan,nan,nan
+1984,geoId/06101,Sutter County,56648,nan,nan,nan,nan
+1985,geoId/06101,Sutter County,57599,nan,nan,nan,nan
+1986,geoId/06101,Sutter County,58478,nan,nan,nan,nan
+1987,geoId/06101,Sutter County,59780,nan,nan,nan,nan
+1988,geoId/06101,Sutter County,61075,nan,nan,nan,nan
+1989,geoId/06101,Sutter County,62704,nan,nan,nan,nan
+1990,geoId/06101,Sutter County,64853,nan,14.1,nan,nan
+1991,geoId/06101,Sutter County,67159,nan,17.1,nan,nan
+1992,geoId/06101,Sutter County,69204,nan,19.7,nan,nan
+1993,geoId/06101,Sutter County,70717,nan,18.8,nan,nan
+1994,geoId/06101,Sutter County,72697,nan,16.8,nan,nan
+1995,geoId/06101,Sutter County,74354,nan,17.1,nan,nan
+1996,geoId/06101,Sutter County,75366,nan,16.2,nan,nan
+1997,geoId/06101,Sutter County,76450,nan,15.2,nan,nan
+1998,geoId/06101,Sutter County,77069,nan,15.6,nan,nan
+1999,geoId/06101,Sutter County,78423,nan,13.1,nan,nan
+2000,geoId/06101,Sutter County,79171,nan,9.3,nan,nan
+2001,geoId/06101,Sutter County,80015,nan,9.8,nan,nan
+2002,geoId/06101,Sutter County,81915,nan,11.1,nan,nan
+2003,geoId/06101,Sutter County,84278,nan,11.3,nan,nan
+2004,geoId/06101,Sutter County,85942,nan,10.6,nan,nan
+2005,geoId/06101,Sutter County,88038,nan,9.6,nan,nan
+2006,geoId/06101,Sutter County,90174,nan,8.9,nan,nan
+2007,geoId/06101,Sutter County,91824,nan,9.6,nan,nan
+2008,geoId/06101,Sutter County,92515,nan,12.4,nan,nan
+2009,geoId/06101,Sutter County,92817,nan,17.1,nan,nan
+2010,geoId/06101,Sutter County,94753,nan,18.8,nan,nan
+2011,geoId/06101,Sutter County,94482,34.4,18.5,50010,nan
+2012,geoId/06101,Sutter County,94189,34.5,17.1,50510,nan
+2013,geoId/06101,Sutter County,94507,34.8,14.8,50408,nan
+2014,geoId/06101,Sutter County,94778,35,12.8,51527,nan
+2015,geoId/06101,Sutter County,95282,35.4,10.8,52017,nan
+2016,geoId/06101,Sutter County,95742,35.6,9.7,52943,nan
+2017,geoId/06101,Sutter County,96204,35.7,8.8,54347,nan
+2018,geoId/06101,Sutter County,96348,35.7,7.7,56955,nan
+2019,geoId/06101,Sutter County,96971,35.7,7.5,59050,nan
+1980,geoId/06103,Tehama County,38888,nan,nan,nan,nan
+1981,geoId/06103,Tehama County,40196,nan,nan,nan,nan
+1982,geoId/06103,Tehama County,41329,nan,nan,nan,nan
+1983,geoId/06103,Tehama County,42260,nan,nan,nan,nan
+1984,geoId/06103,Tehama County,43203,nan,nan,nan,nan
+1985,geoId/06103,Tehama County,44325,nan,nan,nan,nan
+1986,geoId/06103,Tehama County,44845,nan,nan,nan,nan
+1987,geoId/06103,Tehama County,45982,nan,nan,nan,nan
+1988,geoId/06103,Tehama County,47173,nan,nan,nan,nan
+1989,geoId/06103,Tehama County,48558,nan,nan,nan,nan
+1990,geoId/06103,Tehama County,49873,nan,10,nan,nan
+1991,geoId/06103,Tehama County,51025,nan,11.6,nan,nan
+1992,geoId/06103,Tehama County,51904,nan,12.9,nan,nan
+1993,geoId/06103,Tehama County,52143,nan,13.2,nan,nan
+1994,geoId/06103,Tehama County,52945,nan,11.4,nan,nan
+1995,geoId/06103,Tehama County,53771,nan,11.3,nan,nan
+1996,geoId/06103,Tehama County,53863,nan,10.8,nan,nan
+1997,geoId/06103,Tehama County,53816,nan,9.3,nan,nan
+1998,geoId/06103,Tehama County,54016,nan,8.7,nan,nan
+1999,geoId/06103,Tehama County,54012,nan,6.8,nan,nan
+2000,geoId/06103,Tehama County,56146,nan,6.4,nan,nan
+2001,geoId/06103,Tehama County,56539,nan,6.6,nan,nan
+2002,geoId/06103,Tehama County,57104,nan,7.3,nan,nan
+2003,geoId/06103,Tehama County,58109,nan,7.8,nan,nan
+2004,geoId/06103,Tehama County,58998,nan,7.4,nan,nan
+2005,geoId/06103,Tehama County,59866,nan,6.8,nan,nan
+2006,geoId/06103,Tehama County,60671,nan,6.5,nan,nan
+2007,geoId/06103,Tehama County,61059,nan,7.2,nan,nan
+2008,geoId/06103,Tehama County,61379,nan,9.2,nan,nan
+2009,geoId/06103,Tehama County,61441,nan,14.2,nan,nan
+2010,geoId/06103,Tehama County,63565,nan,15.8,nan,nan
+2011,geoId/06103,Tehama County,63331,39.4,15.2,38753,nan
+2012,geoId/06103,Tehama County,63212,39.6,14,40307,nan
+2013,geoId/06103,Tehama County,62875,39.9,11.8,41924,nan
+2014,geoId/06103,Tehama County,62801,40,9.7,42369,nan
+2015,geoId/06103,Tehama County,63158,40.5,8,41001,nan
+2016,geoId/06103,Tehama County,63453,40.6,7.1,40687,nan
+2017,geoId/06103,Tehama County,63847,41.1,6.4,42512,nan
+2018,geoId/06103,Tehama County,64018,40.9,5.8,42899,nan
+2019,geoId/06103,Tehama County,65084,41,5.7,44514,nan
+1980,geoId/06105,Trinity County,11858,nan,nan,nan,nan
+1981,geoId/06105,Trinity County,12323,nan,nan,nan,nan
+1982,geoId/06105,Trinity County,12316,nan,nan,nan,nan
+1983,geoId/06105,Trinity County,12467,nan,nan,nan,nan
+1984,geoId/06105,Trinity County,12750,nan,nan,nan,nan
+1985,geoId/06105,Trinity County,12881,nan,nan,nan,nan
+1986,geoId/06105,Trinity County,12811,nan,nan,nan,nan
+1987,geoId/06105,Trinity County,12715,nan,nan,nan,nan
+1988,geoId/06105,Trinity County,13051,nan,nan,nan,nan
+1989,geoId/06105,Trinity County,13145,nan,nan,nan,nan
+1990,geoId/06105,Trinity County,13051,nan,12.4,nan,nan
+1991,geoId/06105,Trinity County,13087,nan,14.6,nan,nan
+1992,geoId/06105,Trinity County,13171,nan,16.9,nan,nan
+1993,geoId/06105,Trinity County,13213,nan,16.8,nan,nan
+1994,geoId/06105,Trinity County,13479,nan,15,nan,nan
+1995,geoId/06105,Trinity County,13436,nan,14.6,nan,nan
+1996,geoId/06105,Trinity County,13382,nan,14.8,nan,nan
+1997,geoId/06105,Trinity County,13162,nan,13.7,nan,nan
+1998,geoId/06105,Trinity County,13043,nan,13.4,nan,nan
+1999,geoId/06105,Trinity County,12927,nan,11.6,nan,nan
+2000,geoId/06105,Trinity County,12949,nan,9.7,nan,nan
+2001,geoId/06105,Trinity County,12870,nan,9.3,nan,nan
+2002,geoId/06105,Trinity County,13124,nan,10.2,nan,nan
+2003,geoId/06105,Trinity County,13320,nan,10.6,nan,nan
+2004,geoId/06105,Trinity County,13315,nan,11,nan,nan
+2005,geoId/06105,Trinity County,13650,nan,10.2,nan,nan
+2006,geoId/06105,Trinity County,13894,nan,9.9,nan,nan
+2007,geoId/06105,Trinity County,13962,nan,10.3,nan,nan
+2008,geoId/06105,Trinity County,14020,nan,12.8,nan,nan
+2009,geoId/06105,Trinity County,14178,nan,17.4,nan,nan
+2010,geoId/06105,Trinity County,13754,nan,17.4,nan,nan
+2011,geoId/06105,Trinity County,13681,49.3,17,37672,nan
+2012,geoId/06105,Trinity County,13486,49.2,14.9,36569,nan
+2013,geoId/06105,Trinity County,13427,49.8,12.1,36890,nan
+2014,geoId/06105,Trinity County,13123,50,9.6,36862,nan
+2015,geoId/06105,Trinity County,13094,50.3,7.8,34974,nan
+2016,geoId/06105,Trinity County,12830,50.6,7.1,35270,nan
+2017,geoId/06105,Trinity County,12726,51.4,6.2,36563,nan
+2018,geoId/06105,Trinity County,12535,51.8,5.8,38497,nan
+2019,geoId/06105,Trinity County,12700,52.5,5.6,40846,nan
+1980,geoId/06107,Tulare County,245738,nan,nan,nan,nan
+1981,geoId/06107,Tulare County,253694,nan,nan,nan,nan
+1982,geoId/06107,Tulare County,259759,nan,nan,nan,nan
+1983,geoId/06107,Tulare County,267034,nan,nan,nan,nan
+1984,geoId/06107,Tulare County,273255,nan,nan,nan,nan
+1985,geoId/06107,Tulare County,280000,nan,nan,nan,nan
+1986,geoId/06107,Tulare County,285767,nan,nan,nan,nan
+1987,geoId/06107,Tulare County,291752,nan,nan,nan,nan
+1988,geoId/06107,Tulare County,298075,nan,nan,nan,nan
+1989,geoId/06107,Tulare County,304451,nan,nan,nan,nan
+1990,geoId/06107,Tulare County,313897,nan,12.3,nan,nan
+1991,geoId/06107,Tulare County,322884,nan,18.3,nan,nan
+1992,geoId/06107,Tulare County,330451,nan,17.6,nan,nan
+1993,geoId/06107,Tulare County,337107,nan,18.2,nan,nan
+1994,geoId/06107,Tulare County,342838,nan,16.5,nan,nan
+1995,geoId/06107,Tulare County,344633,nan,16.7,nan,nan
+1996,geoId/06107,Tulare County,346607,nan,16.4,nan,nan
+1997,geoId/06107,Tulare County,350192,nan,15.4,nan,nan
+1998,geoId/06107,Tulare County,354527,nan,15.7,nan,nan
+1999,geoId/06107,Tulare County,358470,nan,16.7,nan,nan
+2000,geoId/06107,Tulare County,368611,nan,10.3,nan,nan
+2001,geoId/06107,Tulare County,372878,nan,11.5,nan,nan
+2002,geoId/06107,Tulare County,378910,nan,12,nan,nan
+2003,geoId/06107,Tulare County,387618,nan,12.4,nan,nan
+2004,geoId/06107,Tulare County,396543,nan,11.6,nan,nan
+2005,geoId/06107,Tulare County,405621,nan,9.4,nan,nan
+2006,geoId/06107,Tulare County,411815,nan,8.5,nan,nan
+2007,geoId/06107,Tulare County,418264,nan,9.1,nan,nan
+2008,geoId/06107,Tulare County,424540,nan,10.9,nan,nan
+2009,geoId/06107,Tulare County,431328,nan,15.4,nan,nan
+2010,geoId/06107,Tulare County,442994,nan,17.6,nan,nan
+2011,geoId/06107,Tulare County,446784,29.5,17.4,43550,nan
+2012,geoId/06107,Tulare County,449779,29.7,16.4,43803,nan
+2013,geoId/06107,Tulare County,452460,29.9,14.5,42708,nan
+2014,geoId/06107,Tulare County,455138,30.1,13.3,42863,nan
+2015,geoId/06107,Tulare County,457161,30.3,11.7,42031,nan
+2016,geoId/06107,Tulare County,459235,30.4,11.2,42789,nan
+2017,geoId/06107,Tulare County,462308,30.6,10.5,44871,nan
+2018,geoId/06107,Tulare County,464589,30.8,9.8,47518,nan
+2019,geoId/06107,Tulare County,466195,31,9.9,49687,nan
+1980,geoId/06109,Tuolumne County,33928,nan,nan,nan,nan
+1981,geoId/06109,Tuolumne County,35246,nan,nan,nan,nan
+1982,geoId/06109,Tuolumne County,36259,nan,nan,nan,nan
+1983,geoId/06109,Tuolumne County,37255,nan,nan,nan,nan
+1984,geoId/06109,Tuolumne County,38058,nan,nan,nan,nan
+1985,geoId/06109,Tuolumne County,39741,nan,nan,nan,nan
+1986,geoId/06109,Tuolumne County,41583,nan,nan,nan,nan
+1987,geoId/06109,Tuolumne County,43335,nan,nan,nan,nan
+1988,geoId/06109,Tuolumne County,45029,nan,nan,nan,nan
+1989,geoId/06109,Tuolumne County,46877,nan,nan,nan,nan
+1990,geoId/06109,Tuolumne County,48837,nan,6.7,nan,nan
+1991,geoId/06109,Tuolumne County,50105,nan,8.8,nan,nan
+1992,geoId/06109,Tuolumne County,50543,nan,11.3,nan,nan
+1993,geoId/06109,Tuolumne County,51442,nan,11.9,nan,nan
+1994,geoId/06109,Tuolumne County,51877,nan,11.2,nan,nan
+1995,geoId/06109,Tuolumne County,51564,nan,10.8,nan,nan
+1996,geoId/06109,Tuolumne County,52173,nan,10.4,nan,nan
+1997,geoId/06109,Tuolumne County,52338,nan,8.8,nan,nan
+1998,geoId/06109,Tuolumne County,53029,nan,8,nan,nan
+1999,geoId/06109,Tuolumne County,53764,nan,6.6,nan,nan
+2000,geoId/06109,Tuolumne County,54670,nan,5.8,nan,nan
+2001,geoId/06109,Tuolumne County,55208,nan,5.9,nan,nan
+2002,geoId/06109,Tuolumne County,55757,nan,6.7,nan,nan
+2003,geoId/06109,Tuolumne County,56364,nan,7.1,nan,nan
+2004,geoId/06109,Tuolumne County,56400,nan,6.9,nan,nan
+2005,geoId/06109,Tuolumne County,56531,nan,6.4,nan,nan
+2006,geoId/06109,Tuolumne County,56365,nan,5.8,nan,nan
+2007,geoId/06109,Tuolumne County,55968,nan,6.1,nan,nan
+2008,geoId/06109,Tuolumne County,55902,nan,8,nan,nan
+2009,geoId/06109,Tuolumne County,55377,nan,12.7,nan,nan
+2010,geoId/06109,Tuolumne County,55191,nan,15.6,nan,nan
+2011,geoId/06109,Tuolumne County,54830,47.2,14.7,47359,nan
+2012,geoId/06109,Tuolumne County,54221,48,13.2,48169,nan
+2013,geoId/06109,Tuolumne County,53997,48,10.9,48426,nan
+2014,geoId/06109,Tuolumne County,53851,48.2,8.8,48493,nan
+2015,geoId/06109,Tuolumne County,53615,48.6,7.1,50306,nan
+2016,geoId/06109,Tuolumne County,53770,48.2,6.2,50731,nan
+2017,geoId/06109,Tuolumne County,53976,48.6,5.4,54325,nan
+2018,geoId/06109,Tuolumne County,54387,48.4,4.7,56493,nan
+2019,geoId/06109,Tuolumne County,54478,48.4,4.6,60108,nan
+1980,geoId/06111,Ventura County,529174,nan,nan,nan,nan
+1981,geoId/06111,Ventura County,546389,nan,nan,nan,nan
+1982,geoId/06111,Ventura County,562142,nan,nan,nan,nan
+1983,geoId/06111,Ventura County,575586,nan,nan,nan,nan
+1984,geoId/06111,Ventura County,588790,nan,nan,nan,nan
+1985,geoId/06111,Ventura County,602819,nan,nan,nan,nan
+1986,geoId/06111,Ventura County,615422,nan,nan,nan,nan
+1987,geoId/06111,Ventura County,632062,nan,nan,nan,nan
+1988,geoId/06111,Ventura County,650851,nan,nan,nan,nan
+1989,geoId/06111,Ventura County,664692,nan,nan,nan,nan
+1990,geoId/06111,Ventura County,670132,nan,5.7,nan,nan
+1991,geoId/06111,Ventura County,675485,nan,7.6,nan,nan
+1992,geoId/06111,Ventura County,684004,nan,9,nan,nan
+1993,geoId/06111,Ventura County,690066,nan,9.1,nan,nan
+1994,geoId/06111,Ventura County,698901,nan,8,nan,nan
+1995,geoId/06111,Ventura County,703990,nan,7.4,nan,nan
+1996,geoId/06111,Ventura County,710920,nan,7.3,nan,nan
+1997,geoId/06111,Ventura County,722156,nan,6.7,nan,nan
+1998,geoId/06111,Ventura County,732143,nan,5.6,nan,nan
+1999,geoId/06111,Ventura County,745063,nan,4.8,nan,nan
+2000,geoId/06111,Ventura County,756384,nan,4.5,nan,nan
+2001,geoId/06111,Ventura County,765861,nan,4.9,nan,nan
+2002,geoId/06111,Ventura County,777656,nan,5.8,nan,nan
+2003,geoId/06111,Ventura County,785262,nan,5.8,nan,nan
+2004,geoId/06111,Ventura County,790092,nan,5.4,nan,nan
+2005,geoId/06111,Ventura County,789047,nan,4.7,nan,nan
+2006,geoId/06111,Ventura County,791314,nan,4.3,nan,nan
+2007,geoId/06111,Ventura County,792748,nan,4.8,nan,nan
+2008,geoId/06111,Ventura County,797744,nan,6.3,nan,nan
+2009,geoId/06111,Ventura County,805075,nan,10.1,nan,nan
+2010,geoId/06111,Ventura County,825130,nan,11.1,nan,nan
+2011,geoId/06111,Ventura County,830099,36.2,10.4,76728,nan
+2012,geoId/06111,Ventura County,833516,36.4,9.2,76483,nan
+2013,geoId/06111,Ventura County,838136,36.6,8,76544,nan
+2014,geoId/06111,Ventura County,842297,36.9,6.7,77335,nan
+2015,geoId/06111,Ventura County,845802,37.1,5.7,77348,nan
+2016,geoId/06111,Ventura County,847323,37.3,5.2,78593,nan
+2017,geoId/06111,Ventura County,849044,37.5,4.5,81972,nan
+2018,geoId/06111,Ventura County,848142,37.9,3.8,84017,nan
+2019,geoId/06111,Ventura County,846006,38.1,3.7,88131,nan
+1980,geoId/06113,Yolo County,113374,nan,nan,nan,nan
+1981,geoId/06113,Yolo County,115238,nan,nan,nan,nan
+1982,geoId/06113,Yolo County,117748,nan,nan,nan,nan
+1983,geoId/06113,Yolo County,119398,nan,nan,nan,nan
+1984,geoId/06113,Yolo County,120861,nan,nan,nan,nan
+1985,geoId/06113,Yolo County,123769,nan,nan,nan,nan
+1986,geoId/06113,Yolo County,125166,nan,nan,nan,nan
+1987,geoId/06113,Yolo County,128526,nan,nan,nan,nan
+1988,geoId/06113,Yolo County,133311,nan,nan,nan,nan
+1989,geoId/06113,Yolo County,138252,nan,nan,nan,nan
+1990,geoId/06113,Yolo County,141991,nan,6.8,nan,nan
+1991,geoId/06113,Yolo County,143853,nan,7.9,nan,nan
+1992,geoId/06113,Yolo County,144364,nan,8.3,nan,nan
+1993,geoId/06113,Yolo County,144980,nan,8.1,nan,nan
+1994,geoId/06113,Yolo County,145796,nan,6.9,nan,nan
+1995,geoId/06113,Yolo County,147399,nan,6.9,nan,nan
+1996,geoId/06113,Yolo County,149077,nan,6.5,nan,nan
+1997,geoId/06113,Yolo County,151496,nan,6,nan,nan
+1998,geoId/06113,Yolo County,153293,nan,5.4,nan,nan
+1999,geoId/06113,Yolo County,155573,nan,4.4,nan,nan
+2000,geoId/06113,Yolo County,169892,nan,5,nan,nan
+2001,geoId/06113,Yolo County,175501,nan,5.1,nan,nan
+2002,geoId/06113,Yolo County,180573,nan,6.1,nan,nan
+2003,geoId/06113,Yolo County,183284,nan,6.4,nan,nan
+2004,geoId/06113,Yolo County,185638,nan,6.1,nan,nan
+2005,geoId/06113,Yolo County,186685,nan,5.5,nan,nan
+2006,geoId/06113,Yolo County,190031,nan,5.2,nan,nan
+2007,geoId/06113,Yolo County,194802,nan,5.7,nan,nan
+2008,geoId/06113,Yolo County,197558,nan,7.4,nan,nan
+2009,geoId/06113,Yolo County,200152,nan,11.5,nan,nan
+2010,geoId/06113,Yolo County,201083,nan,12.4,nan,nan
+2011,geoId/06113,Yolo County,201954,30.1,12,57920,nan
+2012,geoId/06113,Yolo County,204576,30.5,10.8,57260,nan
+2013,geoId/06113,Yolo County,206292,30.7,9.1,55918,nan
+2014,geoId/06113,Yolo County,208398,31,7.6,55508,nan
+2015,geoId/06113,Yolo County,212037,30.9,6.5,54989,nan
+2016,geoId/06113,Yolo County,215627,30.9,5.9,57663,nan
+2017,geoId/06113,Yolo County,218477,30.9,5.1,61621,nan
+2018,geoId/06113,Yolo County,220118,31,4.3,65923,nan
+2019,geoId/06113,Yolo County,220500,31,4.2,70228,nan
+1980,geoId/06115,Yuba County,49733,nan,nan,nan,nan
+1981,geoId/06115,Yuba County,50013,nan,nan,nan,nan
+1982,geoId/06115,Yuba County,51175,nan,nan,nan,nan
+1983,geoId/06115,Yuba County,51721,nan,nan,nan,nan
+1984,geoId/06115,Yuba County,52404,nan,nan,nan,nan
+1985,geoId/06115,Yuba County,53330,nan,nan,nan,nan
+1986,geoId/06115,Yuba County,53778,nan,nan,nan,nan
+1987,geoId/06115,Yuba County,54774,nan,nan,nan,nan
+1988,geoId/06115,Yuba County,55841,nan,nan,nan,nan
+1989,geoId/06115,Yuba County,57010,nan,nan,nan,nan
+1990,geoId/06115,Yuba County,58642,nan,10.6,nan,nan
+1991,geoId/06115,Yuba County,59375,nan,14,nan,nan
+1992,geoId/06115,Yuba County,60655,nan,17.4,nan,nan
+1993,geoId/06115,Yuba County,61290,nan,17.5,nan,nan
+1994,geoId/06115,Yuba County,61695,nan,16,nan,nan
+1995,geoId/06115,Yuba County,61012,nan,15,nan,nan
+1996,geoId/06115,Yuba County,60842,nan,14.3,nan,nan
+1997,geoId/06115,Yuba County,60154,nan,13.3,nan,nan
+1998,geoId/06115,Yuba County,59953,nan,13.6,nan,nan
+1999,geoId/06115,Yuba County,59607,nan,11.8,nan,nan
+2000,geoId/06115,Yuba County,60395,nan,7.9,nan,nan
+2001,geoId/06115,Yuba County,61422,nan,8.6,nan,nan
+2002,geoId/06115,Yuba County,62392,nan,9.9,nan,nan
+2003,geoId/06115,Yuba County,63131,nan,10.8,nan,nan
+2004,geoId/06115,Yuba County,64250,nan,9.7,nan,nan
+2005,geoId/06115,Yuba County,66934,nan,9,nan,nan
+2006,geoId/06115,Yuba County,70018,nan,8.8,nan,nan
+2007,geoId/06115,Yuba County,71642,nan,9.2,nan,nan
+2008,geoId/06115,Yuba County,72781,nan,12,nan,nan
+2009,geoId/06115,Yuba County,72723,nan,17.5,nan,nan
+2010,geoId/06115,Yuba County,72350,nan,18.2,nan,nan
+2011,geoId/06115,Yuba County,72489,31.7,17.3,46617,nan
+2012,geoId/06115,Yuba County,72774,31.9,15.6,46641,nan
+2013,geoId/06115,Yuba County,73090,31.9,13.3,44902,nan
+2014,geoId/06115,Yuba County,73533,32.1,11.3,45470,nan
+2015,geoId/06115,Yuba County,74045,32.1,9.3,46892,nan
+2016,geoId/06115,Yuba County,74952,32.2,8.6,48739,nan
+2017,geoId/06115,Yuba County,76578,32.4,7.5,51776,nan
+2018,geoId/06115,Yuba County,77557,32.5,6.5,52624,nan
+2019,geoId/06115,Yuba County,78668,32.8,6.2,58054,nan
